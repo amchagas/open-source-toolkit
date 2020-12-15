@@ -20,3 +20,6 @@ public/
 #random files
 *DS_Store
 .Rproj.user
+
+#jupyter notebook
+.ipynb_checkpoints/
