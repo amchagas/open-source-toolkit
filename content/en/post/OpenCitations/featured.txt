@@ -1,2 +1,0 @@
-"x"
-"problem with https://github.com/opencitations/logo/blob/master/logo.png?raw=true"

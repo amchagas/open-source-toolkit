@@ -1,2 +1,0 @@
-"x"
-"problem with https://github.com/simetenn/uncertainpy/blob/master/logo/uncertainpy.pdf"
