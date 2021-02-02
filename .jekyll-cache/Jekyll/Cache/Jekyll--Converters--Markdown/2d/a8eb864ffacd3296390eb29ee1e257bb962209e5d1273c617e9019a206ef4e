@@ -1,0 +1,58 @@
+I"“<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">IPython.core.display</span> <span class="kn">import</span> <span class="n">Image</span>
+<span class="n">Image</span><span class="p">(</span><span class="s">'https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png'</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p><img src="./index_1_0.png" alt="png" /></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">print</span><span class="p">(</span><span class="s">"Welcome to Academic!"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Welcome to Academic!
+</code></pre></div></div>
+
+<h2 id="install-python-and-jupyterlab">Install Python and JupyterLab</h2>
+
+<p><a href="https://www.anaconda.com/distribution/#download-section">Install Anaconda</a> which includes Python 3 and JupyterLab.</p>
+
+<p>Alternatively, install JupyterLab with <code class="language-plaintext highlighter-rouge">pip3 install jupyterlab</code>.</p>
+
+<h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook</h2>
+
+<p>Run the following commands in your Terminal, substituting <code class="language-plaintext highlighter-rouge">&lt;MY-WEBSITE-FOLDER&gt;</code> and <code class="language-plaintext highlighter-rouge">&lt;SHORT-POST-TITLE&gt;</code> with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mkdir</span> <span class="nt">-p</span> &lt;MY-WEBSITE-FOLDER&gt;/content/post/&lt;SHORT-POST-TITLE&gt;/
+<span class="nb">cd</span> &lt;MY-WEBSITE-FOLDER&gt;/content/post/&lt;SHORT-POST-TITLE&gt;/
+jupyter lab index.ipynb
+</code></pre></div></div>
+
+<p>The <code class="language-plaintext highlighter-rouge">jupyter</code> command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.</p>
+
+<h2 id="edit-your-post-metadata">Edit your post metadata</h2>
+
+<p>The first cell of your Jupter notebook will contain your post metadata (<a href="https://sourcethemes.com/academic/docs/front-matter/">front matter</a>).</p>
+
+<p>In Jupter, choose <em>Markdown</em> as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+title: My post's title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+</code></pre></div></div>
+
+<p>Edit the metadata of your post, using the <a href="https://sourcethemes.com/academic/docs/managing-content">documentation</a> as a guide to the available options.</p>
+
+<p>To set a <a href="https://sourcethemes.com/academic/docs/managing-content/#featured-image">featured image</a>, place an image named <code class="language-plaintext highlighter-rouge">featured</code> into your postâ€™s folder.</p>
+
+<p>For other tips, such as using math, see the guide on <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/">writing content with Academic</a>.</p>
+
+<h2 id="convert-notebook-to-markdown">Convert notebook to Markdown</h2>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jupyter nbconvert index.ipynb <span class="nt">--to</span> markdown <span class="nt">--NbConvertApp</span>.output_files_dir<span class="o">=</span><span class="nb">.</span>
+</code></pre></div></div>
+
+<h2 id="example">Example</h2>
+
+<p>This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter</p>
+:ET
