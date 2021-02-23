@@ -5,14 +5,14 @@
 tags:  ['Research Article', 'None', 'bioRxiv']
 layout: 'post'
 ---
-Publishing date: '2020-06-15'
+Publishing date: 2020-06-15
 
-Published on: 'bioRxiv'
+Published on: bioRxiv
 
-summary: 'None'
+summary: None
 
-authors: 'Jakub Nedbal,  Lu Gao,  Klaus Suhling'
+authors: Jakub Nedbal,  Lu Gao,  Klaus Suhling
 
-link to paper: 'https://doi.org/10.1101/2020.05.01.071878'
+link to paper: https://doi.org/10.1101/2020.05.01.071878
 
 Icons made by <a href="https://www.flaticon.com/free-icon/bookshelves_3576884" title="catkuro">catkuro</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>

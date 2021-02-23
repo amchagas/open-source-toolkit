@@ -5,14 +5,14 @@
 tags:  ['Research Article', 'None', 'BMC Bioinformatics ']
 layout: 'post'
 ---
-Publishing date: '2020-03-03'
+Publishing date: 2020-03-03
 
-Published on: 'BMC Bioinformatics '
+Published on: BMC Bioinformatics 
 
-summary: 'None'
+summary: None
 
-authors: 'Valentino Palombo, Marco Milanesi, Gabriella Sferra, Stefano Capomaccio, Sandy Sgorlon & Mariasilvia D’Andrea '
+authors: Valentino Palombo, Marco Milanesi, Gabriella Sferra, Stefano Capomaccio, Sandy Sgorlon & Mariasilvia D’Andrea 
 
-link to paper: 'https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3371-7'
+link to paper: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3371-7
 
 Icons made by <a href="https://www.flaticon.com/free-icon/bookshelves_3576884" title="catkuro">catkuro</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
