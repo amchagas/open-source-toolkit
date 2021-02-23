@@ -1,9 +1,9 @@
 ---
-title: 'New methods of removing debris and high-throughput counting of cyst nematode eggs extracted from field soil'
-date: '2019-10-15'
+title: "New methods of removing debris and high-throughput counting of cyst nematode eggs extracted from field soil"
+date: "2019-10-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-10-15
 

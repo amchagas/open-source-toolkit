@@ -1,9 +1,9 @@
 ---
-title: 'Comparing record linkage software programs and algorithms using real-world data'
-date: '2019-09-24'
+title: "Comparing record linkage software programs and algorithms using real-world data"
+date: "2019-09-24"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-09-24
 

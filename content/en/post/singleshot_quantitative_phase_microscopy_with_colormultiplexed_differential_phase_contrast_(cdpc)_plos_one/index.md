@@ -1,9 +1,9 @@
 ---
-title: 'Single-shot quantitative phase microscopy with color-multiplexed differential phase contrast (cDPC)'
-date: '2017-02-02'
+title: "Single-shot quantitative phase microscopy with color-multiplexed differential phase contrast (cDPC)"
+date: "2017-02-02"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-02-02
 

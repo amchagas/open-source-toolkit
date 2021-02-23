@@ -1,9 +1,9 @@
 ---
-title: 'Low-cost solution for rodent home-cage behaviour monitoring'
-date: '2019-08-02'
+title: "Low-cost solution for rodent home-cage behaviour monitoring"
+date: "2019-08-02"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-08-02
 

@@ -1,9 +1,9 @@
 ---
-title: 'MEA Viewer: A high-performance interactive application for visualizing electrophysiological data'
-date: '2018-02-09'
+title: "MEA Viewer: A high-performance interactive application for visualizing electrophysiological data"
+date: "2018-02-09"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-02-09
 

@@ -1,9 +1,9 @@
 ---
-title: 'Open Source Laboratory Sample Rotator Mixer and Shaker'
-date: '2016-10-14'
+title: "Open Source Laboratory Sample Rotator Mixer and Shaker"
+date: "2016-10-14"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'HardwareX']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-10-14
 

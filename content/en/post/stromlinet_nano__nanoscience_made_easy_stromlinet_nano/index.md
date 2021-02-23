@@ -1,9 +1,9 @@
 ---
-title: 'Stromlinet Nano - Nanoscience Made Easy'
-date: '2016-03-21'
+title: "Stromlinet Nano - Nanoscience Made Easy"
+date: "2016-03-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Stromlinet Nano']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-21
 

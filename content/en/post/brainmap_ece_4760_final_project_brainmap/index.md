@@ -1,9 +1,9 @@
 ---
-title: 'BrainMap: ECE 4760 Final Project'
-date: '2016-03-21'
+title: "BrainMap: ECE 4760 Final Project"
+date: "2016-03-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'BrainMap']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-21
 

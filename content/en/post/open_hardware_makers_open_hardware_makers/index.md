@@ -1,9 +1,9 @@
 ---
-title: 'Open Hardware Makers'
-date: '2020-07-06'
+title: "Open Hardware Makers"
+date: "2020-07-06"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Open Hardware Makers']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-07-06
 

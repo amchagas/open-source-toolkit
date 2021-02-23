@@ -1,9 +1,9 @@
 ---
-title: 'Shedding Light: A New Open Source Imaging System '
-date: '2018-07-04'
+title: "Shedding Light: A New Open Source Imaging System "
+date: "2018-07-04"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'PLOS Research News']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-07-04
 

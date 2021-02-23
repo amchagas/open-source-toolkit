@@ -1,9 +1,9 @@
 ---
-title: 'Interactive reconstructions of cranial 3D implants under MeVisLab as an alternative to commercial planning software'
-date: '2017-03-06'
+title: "Interactive reconstructions of cranial 3D implants under MeVisLab as an alternative to commercial planning software"
+date: "2017-03-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-03-06
 

@@ -1,9 +1,9 @@
 ---
-title: 'Bionitio: demonstrating and facilitating best practices for bioinformatics command-line software'
-date: '2019-11-14'
+title: "Bionitio: demonstrating and facilitating best practices for bioinformatics command-line software"
+date: "2019-11-14"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Giga Science']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-11-14
 

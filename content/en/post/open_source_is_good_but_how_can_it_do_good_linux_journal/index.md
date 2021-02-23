@@ -1,9 +1,9 @@
 ---
-title: 'Open Source Is Good, but How Can It Do Good?'
-date: '2019-08-16'
+title: "Open Source Is Good, but How Can It Do Good?"
+date: "2019-08-16"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Linux Journal']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-08-16
 

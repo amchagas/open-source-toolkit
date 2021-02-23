@@ -1,9 +1,9 @@
 ---
-title: 'A microfluidic thermometer: Precise temperature measurements in microliter- and nanoliter-scale volumes'
-date: '2017-12-28'
+title: "A microfluidic thermometer: Precise temperature measurements in microliter- and nanoliter-scale volumes"
+date: "2017-12-28"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-12-28
 

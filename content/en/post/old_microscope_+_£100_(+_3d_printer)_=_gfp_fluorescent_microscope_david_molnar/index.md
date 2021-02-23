@@ -1,9 +1,9 @@
 ---
-title: 'Old microscope + £100 (+ 3D printer) = GFP fluorescent microscope'
-date: '2016-03-21'
+title: "Old microscope + £100 (+ 3D printer) = GFP fluorescent microscope"
+date: "2016-03-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'David Molnar']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-21
 

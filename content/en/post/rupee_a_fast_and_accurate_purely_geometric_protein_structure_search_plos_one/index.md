@@ -1,9 +1,9 @@
 ---
-title: 'RUPEE: A fast and accurate purely geometric protein structure search'
-date: '2019-04-11'
+title: "RUPEE: A fast and accurate purely geometric protein structure search"
+date: "2019-04-11"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-04-11
 

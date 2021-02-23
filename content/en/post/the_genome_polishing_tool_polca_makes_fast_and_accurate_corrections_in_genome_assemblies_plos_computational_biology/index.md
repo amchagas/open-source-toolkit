@@ -1,9 +1,9 @@
 ---
-title: 'The genome polishing tool POLCA makes fast and accurate corrections in genome assemblies'
-date: '2020-08-18'
+title: "The genome polishing tool POLCA makes fast and accurate corrections in genome assemblies"
+date: "2020-08-18"
 authors: ['admin']
 tags:  ['Research Article', 'Featured research', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-08-18
 

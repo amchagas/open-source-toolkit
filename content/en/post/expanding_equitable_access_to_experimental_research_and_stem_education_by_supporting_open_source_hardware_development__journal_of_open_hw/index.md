@@ -1,9 +1,9 @@
 ---
-title: 'Expanding Equitable Access to Experimental Research and STEM Education by Supporting Open Source Hardware Development '
-date: '2019-02-01'
+title: "Expanding Equitable Access to Experimental Research and STEM Education by Supporting Open Source Hardware Development "
+date: "2019-02-01"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Journal of Open HW']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-02-01
 

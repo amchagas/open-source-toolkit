@@ -1,9 +1,9 @@
 ---
-title: 'Open(G)PIAS: An Open-Source Solution for the Construction of a High-Precision Acoustic Startle Response Setup for Tinnitus Screening and Threshold Estimation in Rodents'
-date: '2019-07-29'
+title: "Open(G)PIAS: An Open-Source Solution for the Construction of a High-Precision Acoustic Startle Response Setup for Tinnitus Screening and Threshold Estimation in Rodents"
+date: "2019-07-29"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Frontiers in Behavioral Neuroscience']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-07-29
 

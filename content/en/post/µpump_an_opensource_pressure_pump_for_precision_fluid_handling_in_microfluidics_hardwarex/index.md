@@ -1,9 +1,9 @@
 ---
-title: 'µPump: An open-source pressure pump for precision fluid handling in microfluidics'
-date: '2020-02-07'
+title: "µPump: An open-source pressure pump for precision fluid handling in microfluidics"
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'HardwareX']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

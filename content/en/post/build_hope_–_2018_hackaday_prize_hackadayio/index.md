@@ -1,9 +1,9 @@
 ---
-title: 'Build Hope – 2018 Hackaday Prize'
-date: '2018-03-13'
+title: "Build Hope – 2018 Hackaday Prize"
+date: "2018-03-13"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Hackaday.io']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-13
 

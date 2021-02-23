@@ -1,9 +1,9 @@
 ---
-title: 'Enabling precision medicine via standard communication of HTS provenance, analysis, and results'
-date: '2019-01-17'
+title: "Enabling precision medicine via standard communication of HTS provenance, analysis, and results"
+date: "2019-01-17"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-01-17
 

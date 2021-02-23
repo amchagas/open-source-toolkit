@@ -1,9 +1,9 @@
 ---
-title: 'Open Hardware pH meter'
-date: '2016-03-17'
+title: "Open Hardware pH meter"
+date: "2016-03-17"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'GitHub']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-17
 

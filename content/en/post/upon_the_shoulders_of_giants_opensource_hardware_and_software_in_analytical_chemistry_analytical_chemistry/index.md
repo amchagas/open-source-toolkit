@@ -1,9 +1,9 @@
 ---
-title: 'Upon the Shoulders of Giants: Open-Source Hardware and Software in Analytical Chemistry'
-date: '2017-04-05'
+title: "Upon the Shoulders of Giants: Open-Source Hardware and Software in Analytical Chemistry"
+date: "2017-04-05"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'Analytical Chemistry']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-04-05
 

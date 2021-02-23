@@ -1,9 +1,9 @@
 ---
-title: 'Nessys: A new set of tools for the automated detection of nuclei within intact tissues and dense 3D cultures'
-date: '2019-09-26'
+title: "Nessys: A new set of tools for the automated detection of nuclei within intact tissues and dense 3D cultures"
+date: "2019-09-26"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-09-26
 

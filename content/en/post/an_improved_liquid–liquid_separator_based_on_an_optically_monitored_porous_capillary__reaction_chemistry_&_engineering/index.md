@@ -1,9 +1,9 @@
 ---
-title: 'An improved liquid–liquid separator based on an optically monitored porous capillary '
-date: '2019-06-17'
+title: "An improved liquid–liquid separator based on an optically monitored porous capillary "
+date: "2019-06-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Reaction Chemistry & Engineering']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-06-17
 

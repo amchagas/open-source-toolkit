@@ -1,9 +1,9 @@
 ---
-title: 'A low-cost programmable pulse generator for physiology and behavior | Frontiers in Neuroengineering'
-date: '2014-12-11'
+title: "A low-cost programmable pulse generator for physiology and behavior | Frontiers in Neuroengineering"
+date: "2014-12-11"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Frontiers in Neuroengineering']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-12-11
 

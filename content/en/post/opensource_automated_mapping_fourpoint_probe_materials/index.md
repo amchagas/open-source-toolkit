@@ -1,9 +1,9 @@
 ---
-title: 'Open-Source Automated Mapping Four-Point Probe'
-date: '2017-01-26'
+title: "Open-Source Automated Mapping Four-Point Probe"
+date: "2017-01-26"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Materials']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-01-26
 

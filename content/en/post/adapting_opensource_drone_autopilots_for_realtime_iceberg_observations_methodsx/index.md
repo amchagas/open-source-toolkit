@@ -1,9 +1,9 @@
 ---
-title: 'Adapting open-source drone autopilots for real-time iceberg observations'
-date: '2018-10-01'
+title: "Adapting open-source drone autopilots for real-time iceberg observations"
+date: "2018-10-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'MethodsX']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-10-01
 

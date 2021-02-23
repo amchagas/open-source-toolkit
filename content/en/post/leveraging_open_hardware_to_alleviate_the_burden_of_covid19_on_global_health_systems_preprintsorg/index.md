@@ -1,9 +1,9 @@
 ---
-title: 'Leveraging open hardware to alleviate the burden of COVID-19 on global health systems'
-date: '2020-04-06'
+title: "Leveraging open hardware to alleviate the burden of COVID-19 on global health systems"
+date: "2020-04-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Preprints.org']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-06
 

@@ -1,9 +1,9 @@
 ---
-title: 'Plastic Eating Device for Rocky Ocean Coasts'
-date: '2016-02-15'
+title: "Plastic Eating Device for Rocky Ocean Coasts"
+date: "2016-02-15"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Civic Laboratory']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-02-15
 

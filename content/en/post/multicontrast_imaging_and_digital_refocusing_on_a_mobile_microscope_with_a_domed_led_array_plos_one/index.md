@@ -1,9 +1,9 @@
 ---
-title: 'Multi-Contrast Imaging and Digital Refocusing on a Mobile Microscope with a Domed LED Array'
-date: '2015-05-13'
+title: "Multi-Contrast Imaging and Digital Refocusing on a Mobile Microscope with a Domed LED Array"
+date: "2015-05-13"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-05-13
 

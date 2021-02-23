@@ -1,9 +1,9 @@
 ---
-title: 'Open sourcing bioinstruments'
-date: '2019-02-01'
+title: "Open sourcing bioinstruments"
+date: "2019-02-01"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Bits of DNA']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-02-01
 

@@ -1,9 +1,9 @@
 ---
-title: 'Strengthening of 3D Printed Fused Deposition Manufactured Parts Using the Fill Compositing Technique'
-date: '2015-04-16'
+title: "Strengthening of 3D Printed Fused Deposition Manufactured Parts Using the Fill Compositing Technique"
+date: "2015-04-16"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-04-16
 

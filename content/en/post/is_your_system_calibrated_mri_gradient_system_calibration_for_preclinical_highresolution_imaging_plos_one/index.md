@@ -1,9 +1,9 @@
 ---
-title: 'Is Your System Calibrated? MRI Gradient System Calibration for Pre-Clinical, High-Resolution Imaging'
-date: '2014-05-07'
+title: "Is Your System Calibrated? MRI Gradient System Calibration for Pre-Clinical, High-Resolution Imaging"
+date: "2014-05-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-05-07
 

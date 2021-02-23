@@ -1,9 +1,9 @@
 ---
-title: 'DIY hybrid SSVEP-P300 LED stimuli for BCI platform using EMOTIV EEG headset'
-date: '2020-06-15'
+title: "DIY hybrid SSVEP-P300 LED stimuli for BCI platform using EMOTIV EEG headset"
+date: "2020-06-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'HardwareX']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-06-15
 

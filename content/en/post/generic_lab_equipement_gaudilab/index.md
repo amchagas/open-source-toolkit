@@ -1,9 +1,9 @@
 ---
-title: 'Generic Lab Equipement'
-date: '2015-10-06'
+title: "Generic Lab Equipement"
+date: "2015-10-06"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'GaudiLab']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-10-06
 

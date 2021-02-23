@@ -1,9 +1,9 @@
 ---
-title: 'Agreement between the spatiotemporal gait parameters from two different wearable devices and high-speed video analysis'
-date: '2019-10-17'
+title: "Agreement between the spatiotemporal gait parameters from two different wearable devices and high-speed video analysis"
+date: "2019-10-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-10-17
 

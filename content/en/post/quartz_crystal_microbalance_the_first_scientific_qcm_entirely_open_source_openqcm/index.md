@@ -1,9 +1,9 @@
 ---
-title: 'Quartz Crystal Microbalance: the first scientific QCM entirely Open Source'
-date: '2016-01-06'
+title: "Quartz Crystal Microbalance: the first scientific QCM entirely Open Source"
+date: "2016-01-06"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'openQCM']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-01-06
 

@@ -1,9 +1,9 @@
 ---
-title: 'Synchronized editing: the future of collaborative writing'
-date: '2020-05-12'
+title: "Synchronized editing: the future of collaborative writing"
+date: "2020-05-12"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Nature']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-05-12
 

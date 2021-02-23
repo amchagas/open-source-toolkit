@@ -1,9 +1,9 @@
 ---
-title: 'Ten simple rules for collaborative lesson development'
-date: '2018-03-01'
+title: "Ten simple rules for collaborative lesson development"
+date: "2018-03-01"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-01
 

@@ -1,9 +1,9 @@
 ---
-title: 'DeepImpute: an accurate, fast, and scalable deep neural network method to impute single-cell RNA-seq data'
-date: '2019-11-14'
+title: "DeepImpute: an accurate, fast, and scalable deep neural network method to impute single-cell RNA-seq data"
+date: "2019-11-14"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Genome Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-11-14
 

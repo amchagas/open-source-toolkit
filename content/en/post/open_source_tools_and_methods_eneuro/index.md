@@ -1,9 +1,9 @@
 ---
-title: 'Open Source Tools and Methods'
-date: '2019-09-26'
+title: "Open Source Tools and Methods"
+date: "2019-09-26"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'eNeuro']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-09-26
 

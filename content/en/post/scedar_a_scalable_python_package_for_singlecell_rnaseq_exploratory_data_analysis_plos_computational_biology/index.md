@@ -1,9 +1,9 @@
 ---
-title: 'Scedar: A scalable Python package for single-cell RNA-seq exploratory data analysis'
-date: '2020-04-27'
+title: "Scedar: A scalable Python package for single-cell RNA-seq exploratory data analysis"
+date: "2020-04-27"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-27
 

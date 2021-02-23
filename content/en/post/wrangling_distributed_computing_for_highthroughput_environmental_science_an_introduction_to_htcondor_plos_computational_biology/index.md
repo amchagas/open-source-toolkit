@@ -1,9 +1,9 @@
 ---
-title: 'Wrangling distributed computing for high-throughput environmental science: An introduction to HTCondor'
-date: '2018-10-23'
+title: "Wrangling distributed computing for high-throughput environmental science: An introduction to HTCondor"
+date: "2018-10-23"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-10-23
 

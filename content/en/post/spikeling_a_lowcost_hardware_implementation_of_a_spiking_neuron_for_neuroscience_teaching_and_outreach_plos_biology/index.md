@@ -1,9 +1,9 @@
 ---
-title: 'Spikeling: A low-cost hardware implementation of a spiking neuron for neuroscience teaching and outreach'
-date: '2018-11-19'
+title: "Spikeling: A low-cost hardware implementation of a spiking neuron for neuroscience teaching and outreach"
+date: "2018-11-19"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-11-19
 

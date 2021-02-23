@@ -1,9 +1,9 @@
 ---
-title: 'colorimeter'
-date: '2015-03-03'
+title: "colorimeter"
+date: "2015-03-03"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'mtu-most']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-03-03
 

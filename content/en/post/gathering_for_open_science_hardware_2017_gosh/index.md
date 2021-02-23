@@ -1,9 +1,9 @@
 ---
-title: 'Gathering for Open Science Hardware 2017'
-date: '2017-03-22'
+title: "Gathering for Open Science Hardware 2017"
+date: "2017-03-22"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'GOSH']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-03-22
 

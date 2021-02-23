@@ -1,9 +1,9 @@
 ---
-title: 'FishCam: A low-cost open source autonomous camera for aquatic research'
-date: '2020-06-15'
+title: "FishCam: A low-cost open source autonomous camera for aquatic research"
+date: "2020-06-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'HardwareX']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-06-15
 

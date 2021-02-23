@@ -1,9 +1,9 @@
 ---
-title: 'TakkTile'
-date: '2015-10-06'
+title: "TakkTile"
+date: "2015-10-06"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'TakkTile']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-10-06
 

@@ -1,9 +1,9 @@
 ---
-title: 'Open-source micro-tensile testers via additive manufacturing for the mechanical characterization of thin films and papers'
-date: '2018-05-29'
+title: "Open-source micro-tensile testers via additive manufacturing for the mechanical characterization of thin films and papers"
+date: "2018-05-29"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-05-29
 

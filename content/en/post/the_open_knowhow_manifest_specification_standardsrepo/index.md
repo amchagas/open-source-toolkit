@@ -1,9 +1,9 @@
 ---
-title: 'The Open Know-How Manifest Specification'
-date: '2019-10-17'
+title: "The Open Know-How Manifest Specification"
+date: "2019-10-17"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'StandardsRepo']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-10-17
 

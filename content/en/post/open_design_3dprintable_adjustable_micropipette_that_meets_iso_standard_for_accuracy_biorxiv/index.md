@@ -1,9 +1,9 @@
 ---
-title: 'Open Design 3D-Printable Adjustable Micropipette that meets ISO Standard for Accuracy'
-date: '2017-02-20'
+title: "Open Design 3D-Printable Adjustable Micropipette that meets ISO Standard for Accuracy"
+date: "2017-02-20"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-02-20
 

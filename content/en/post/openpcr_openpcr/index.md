@@ -1,9 +1,9 @@
 ---
-title: 'OpenPCR'
-date: '2015-10-27'
+title: "OpenPCR"
+date: "2015-10-27"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'OpenPCR']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-10-27
 

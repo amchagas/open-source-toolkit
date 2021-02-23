@@ -1,9 +1,9 @@
 ---
-title: 'Gencore: an efficient tool to generate consensus reads for error suppressing and duplicate removing of NGS data'
-date: '2020-01-15'
+title: "Gencore: an efficient tool to generate consensus reads for error suppressing and duplicate removing of NGS data"
+date: "2020-01-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', ' BMC Bioinformatics ']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-15
 

@@ -1,9 +1,9 @@
 ---
-title: 'Diversity: Why open source needs to work on it in 2020 - TechRepublic'
-date: '2020-01-15'
+title: "Diversity: Why open source needs to work on it in 2020 - TechRepublic"
+date: "2020-01-15"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'TechRepublic']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-15
 

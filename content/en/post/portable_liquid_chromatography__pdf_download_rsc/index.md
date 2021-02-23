@@ -1,9 +1,9 @@
 ---
-title: 'Portable Liquid Chromatography - PDF download'
-date: '2012-10-01'
+title: "Portable Liquid Chromatography - PDF download"
+date: "2012-10-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'RSC']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2012-10-01
 

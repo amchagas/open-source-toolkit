@@ -1,9 +1,9 @@
 ---
-title: 'A story of hobbies and a hobby of stories'
-date: '2019-10-17'
+title: "A story of hobbies and a hobby of stories"
+date: "2019-10-17"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'SCIENTISTNOBEE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-10-17
 

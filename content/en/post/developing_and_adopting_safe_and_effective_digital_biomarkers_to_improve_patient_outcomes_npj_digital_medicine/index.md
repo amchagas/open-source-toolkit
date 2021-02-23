@@ -1,9 +1,9 @@
 ---
-title: 'Developing and adopting safe and effective digital biomarkers to improve patient outcomes'
-date: '2019-03-28'
+title: "Developing and adopting safe and effective digital biomarkers to improve patient outcomes"
+date: "2019-03-28"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'npj Digital Medicine']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-03-28
 

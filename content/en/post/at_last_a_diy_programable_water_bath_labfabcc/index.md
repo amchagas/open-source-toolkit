@@ -1,9 +1,9 @@
 ---
-title: 'At last, a DIY programable water bath'
-date: '2013-12-08'
+title: "At last, a DIY programable water bath"
+date: "2013-12-08"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'LabFab.cc']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2013-12-08
 

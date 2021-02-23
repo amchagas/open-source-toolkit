@@ -1,9 +1,9 @@
 ---
-title: 'Microsco-pi: a novel and inexpensive way of merging biology and IT'
-date: '2017-03-06'
+title: "Microsco-pi: a novel and inexpensive way of merging biology and IT"
+date: "2017-03-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Sussex Research Online']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-03-06
 

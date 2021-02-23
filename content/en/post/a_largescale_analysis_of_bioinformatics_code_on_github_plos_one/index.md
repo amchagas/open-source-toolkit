@@ -1,9 +1,9 @@
 ---
-title: 'A large-scale analysis of bioinformatics code on GitHub'
-date: '2018-12-10'
+title: "A large-scale analysis of bioinformatics code on GitHub"
+date: "2018-12-10"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-12-10
 

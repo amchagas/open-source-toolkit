@@ -1,9 +1,9 @@
 ---
-title: 'OptiJ: Open-source optical projection tomography of large organ samples '
-date: '2020-02-07'
+title: "OptiJ: Open-source optical projection tomography of large organ samples "
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Scientific Reports']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

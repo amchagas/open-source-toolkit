@@ -1,9 +1,9 @@
 ---
-title: 'New Open-Source Software Looks To Kickstart The Autonomous Revolution'
-date: '2020-08-18'
+title: "New Open-Source Software Looks To Kickstart The Autonomous Revolution"
+date: "2020-08-18"
 authors: ['admin']
 tags:  ['Web Article', 'Related content', 'Forbes']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-08-18
 

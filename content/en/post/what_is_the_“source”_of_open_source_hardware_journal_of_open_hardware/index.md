@@ -1,9 +1,9 @@
 ---
-title: 'What is the “Source” of Open Source Hardware?'
-date: '2017-09-05'
+title: "What is the “Source” of Open Source Hardware?"
+date: "2017-09-05"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'Journal of Open Hardware']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-09-05
 

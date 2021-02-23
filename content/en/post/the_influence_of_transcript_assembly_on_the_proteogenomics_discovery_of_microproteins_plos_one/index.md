@@ -1,9 +1,9 @@
 ---
-title: 'The influence of transcript assembly on the proteogenomics discovery of microproteins'
-date: '2018-03-27'
+title: "The influence of transcript assembly on the proteogenomics discovery of microproteins"
+date: "2018-03-27"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-27
 

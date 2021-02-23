@@ -1,9 +1,9 @@
 ---
-title: 'ICE Contract With GitHub Sparks Developer Protests '
-date: '2020-01-15'
+title: "ICE Contract With GitHub Sparks Developer Protests "
+date: "2020-01-15"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'The Atlantic']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-15
 

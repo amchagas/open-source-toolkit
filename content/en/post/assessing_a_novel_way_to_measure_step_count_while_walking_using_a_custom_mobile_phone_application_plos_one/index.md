@@ -1,9 +1,9 @@
 ---
-title: 'Assessing a novel way to measure step count while walking using a custom mobile phone application'
-date: '2018-12-10'
+title: "Assessing a novel way to measure step count while walking using a custom mobile phone application"
+date: "2018-12-10"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-12-10
 

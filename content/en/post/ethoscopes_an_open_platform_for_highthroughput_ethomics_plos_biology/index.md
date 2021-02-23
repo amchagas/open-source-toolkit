@@ -1,9 +1,9 @@
 ---
-title: 'Ethoscopes: An open platform for high-throughput ethomics'
-date: '2017-10-19'
+title: "Ethoscopes: An open platform for high-throughput ethomics"
+date: "2017-10-19"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-10-19
 

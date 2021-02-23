@@ -1,9 +1,9 @@
 ---
-title: 'LED Zappelin’: An open source LED controller for arbitrary spectrum visual stimulation and optogenetics during 2-photon imaging | bioRxiv'
-date: '2020-04-03'
+title: "LED Zappelin’: An open source LED controller for arbitrary spectrum visual stimulation and optogenetics during 2-photon imaging | bioRxiv"
+date: "2020-04-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-03
 

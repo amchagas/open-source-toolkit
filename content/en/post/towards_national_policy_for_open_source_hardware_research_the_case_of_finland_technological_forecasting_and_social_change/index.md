@@ -1,9 +1,9 @@
 ---
-title: 'Towards national policy for open source hardware research: The case of Finland'
-date: '2020-04-06'
+title: "Towards national policy for open source hardware research: The case of Finland"
+date: "2020-04-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Technological Forecasting and Social Change']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-06
 

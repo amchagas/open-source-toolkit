@@ -1,9 +1,9 @@
 ---
-title: 'An Open Source Syringe Pump Controller for Fluid Delivery of Multiple Volumes'
-date: '2019-10-17'
+title: "An Open Source Syringe Pump Controller for Fluid Delivery of Multiple Volumes"
+date: "2019-10-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'eNeuro']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-10-17
 

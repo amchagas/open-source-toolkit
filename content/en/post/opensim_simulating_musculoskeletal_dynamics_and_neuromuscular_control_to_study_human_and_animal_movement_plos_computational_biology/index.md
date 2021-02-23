@@ -1,9 +1,9 @@
 ---
-title: 'OpenSim: Simulating musculoskeletal dynamics and neuromuscular control to study human and animal movement'
-date: '2018-07-26'
+title: "OpenSim: Simulating musculoskeletal dynamics and neuromuscular control to study human and animal movement"
+date: "2018-07-26"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-07-26
 

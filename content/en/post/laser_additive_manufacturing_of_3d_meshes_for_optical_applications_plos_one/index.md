@@ -1,9 +1,9 @@
 ---
-title: 'Laser additive manufacturing of 3D meshes for optical applications'
-date: '2018-02-07'
+title: "Laser additive manufacturing of 3D meshes for optical applications"
+date: "2018-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-02-07
 

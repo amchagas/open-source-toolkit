@@ -1,9 +1,9 @@
 ---
-title: 'Portable, Battery-Operated, Low-Cost, Bright Field and Fluorescence Microscope'
-date: '2010-08-04'
+title: "Portable, Battery-Operated, Low-Cost, Bright Field and Fluorescence Microscope"
+date: "2010-08-04"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2010-08-04
 

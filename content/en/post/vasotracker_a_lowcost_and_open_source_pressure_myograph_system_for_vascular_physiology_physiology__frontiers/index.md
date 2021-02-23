@@ -1,9 +1,9 @@
 ---
-title: 'VasoTracker, a low-cost and open source pressure myograph system for vascular physiology'
-date: '2019-02-01'
+title: "VasoTracker, a low-cost and open source pressure myograph system for vascular physiology"
+date: "2019-02-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Physiology | Frontiers']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-02-01
 

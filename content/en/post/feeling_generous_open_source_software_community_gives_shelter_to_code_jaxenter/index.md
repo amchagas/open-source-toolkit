@@ -1,9 +1,9 @@
 ---
-title: 'Feeling generous? Open source software community gives shelter to code'
-date: '2018-12-10'
+title: "Feeling generous? Open source software community gives shelter to code"
+date: "2018-12-10"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'JAXENTER']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-12-10
 

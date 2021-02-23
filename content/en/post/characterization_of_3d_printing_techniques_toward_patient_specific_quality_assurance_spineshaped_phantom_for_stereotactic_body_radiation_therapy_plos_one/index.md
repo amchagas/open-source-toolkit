@@ -1,9 +1,9 @@
 ---
-title: 'Characterization of 3D printing techniques: Toward patient specific quality assurance spine-shaped phantom for stereotactic body radiation therapy'
-date: '2017-05-04'
+title: "Characterization of 3D printing techniques: Toward patient specific quality assurance spine-shaped phantom for stereotactic body radiation therapy"
+date: "2017-05-04"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-05-04
 

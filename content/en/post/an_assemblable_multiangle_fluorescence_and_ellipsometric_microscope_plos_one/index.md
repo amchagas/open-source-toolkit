@@ -1,9 +1,9 @@
 ---
-title: 'An Assemblable, Multi-Angle Fluorescence and Ellipsometric Microscope'
-date: '2016-12-01'
+title: "An Assemblable, Multi-Angle Fluorescence and Ellipsometric Microscope"
+date: "2016-12-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-12-01
 

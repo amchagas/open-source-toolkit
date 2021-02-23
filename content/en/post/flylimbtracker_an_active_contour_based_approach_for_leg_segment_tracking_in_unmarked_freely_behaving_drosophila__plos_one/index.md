@@ -1,9 +1,9 @@
 ---
-title: 'FlyLimbTracker: An active contour based approach for leg segment tracking in unmarked, freely behaving Drosophila '
-date: '2017-04-28'
+title: "FlyLimbTracker: An active contour based approach for leg segment tracking in unmarked, freely behaving Drosophila "
+date: "2017-04-28"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-04-28
 

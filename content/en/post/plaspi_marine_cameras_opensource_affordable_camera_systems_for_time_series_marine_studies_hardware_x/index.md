@@ -1,9 +1,9 @@
 ---
-title: 'PlasPI marine cameras: Open-source, affordable camera systems for time series marine studies'
-date: '2020-04-03'
+title: "PlasPI marine cameras: Open-source, affordable camera systems for time series marine studies"
+date: "2020-04-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Hardware X']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-03
 

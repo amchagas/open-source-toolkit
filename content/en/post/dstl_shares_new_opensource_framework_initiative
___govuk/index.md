@@ -1,10 +1,10 @@
 ---
-title: 'Dstl shares new open-source framework initiative
-  '
-date: '2019-05-23'
+title: "Dstl shares new open-source framework initiative
+  "
+date: "2019-05-23"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'GOV.UK']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-05-23
 

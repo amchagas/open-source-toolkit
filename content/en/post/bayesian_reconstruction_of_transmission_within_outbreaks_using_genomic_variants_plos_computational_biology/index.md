@@ -1,9 +1,9 @@
 ---
-title: 'Bayesian reconstruction of transmission within outbreaks using genomic variants'
-date: '2018-04-18'
+title: "Bayesian reconstruction of transmission within outbreaks using genomic variants"
+date: "2018-04-18"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-04-18
 

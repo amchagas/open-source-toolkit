@@ -1,9 +1,9 @@
 ---
-title: 'DNA Assembly in 3D Printed Fluidics'
-date: '2015-12-30'
+title: "DNA Assembly in 3D Printed Fluidics"
+date: "2015-12-30"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-12-30
 

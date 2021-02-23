@@ -1,9 +1,9 @@
 ---
-title: 'An open-source k-mer based machine learning tool for fast and accurate subtyping of HIV-1 genomes'
-date: '2018-12-10'
+title: "An open-source k-mer based machine learning tool for fast and accurate subtyping of HIV-1 genomes"
+date: "2018-12-10"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-12-10
 

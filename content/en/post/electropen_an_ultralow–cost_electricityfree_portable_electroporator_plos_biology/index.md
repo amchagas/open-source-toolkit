@@ -1,9 +1,9 @@
 ---
-title: 'ElectroPen: An ultra-low–cost, electricity-free, portable electroporator'
-date: '2020-02-07'
+title: "ElectroPen: An ultra-low–cost, electricity-free, portable electroporator"
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

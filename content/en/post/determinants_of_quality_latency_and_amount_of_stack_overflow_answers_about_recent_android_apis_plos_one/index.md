@@ -1,9 +1,9 @@
 ---
-title: 'Determinants of quality, latency, and amount of Stack Overflow answers about recent Android APIs'
-date: '2018-03-16'
+title: "Determinants of quality, latency, and amount of Stack Overflow answers about recent Android APIs"
+date: "2018-03-16"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-16
 

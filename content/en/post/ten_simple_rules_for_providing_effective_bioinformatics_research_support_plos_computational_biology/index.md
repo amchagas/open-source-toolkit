@@ -1,9 +1,9 @@
 ---
-title: 'Ten simple rules for providing effective bioinformatics research support'
-date: '2020-03-26'
+title: "Ten simple rules for providing effective bioinformatics research support"
+date: "2020-03-26"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-03-26
 

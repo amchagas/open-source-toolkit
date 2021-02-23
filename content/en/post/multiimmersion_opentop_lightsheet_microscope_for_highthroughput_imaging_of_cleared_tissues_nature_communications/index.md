@@ -1,9 +1,9 @@
 ---
-title: 'Multi-immersion open-top light-sheet microscope for high-throughput imaging of cleared tissues'
-date: '2019-07-29'
+title: "Multi-immersion open-top light-sheet microscope for high-throughput imaging of cleared tissues"
+date: "2019-07-29"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Nature Communications']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-07-29
 

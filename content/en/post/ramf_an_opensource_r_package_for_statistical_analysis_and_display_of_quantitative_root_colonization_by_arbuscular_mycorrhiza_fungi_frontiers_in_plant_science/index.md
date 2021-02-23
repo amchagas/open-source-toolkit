@@ -1,9 +1,9 @@
 ---
-title: 'Ramf: An Open-Source R Package for Statistical Analysis and Display of Quantitative Root Colonization by Arbuscular Mycorrhiza Fungi'
-date: '2019-11-14'
+title: "Ramf: An Open-Source R Package for Statistical Analysis and Display of Quantitative Root Colonization by Arbuscular Mycorrhiza Fungi"
+date: "2019-11-14"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Frontiers in Plant Science']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-11-14
 

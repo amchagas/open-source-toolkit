@@ -1,9 +1,9 @@
 ---
-title: 'F.Lab's DIYbio Centrifuge '
-date: '2017-05-31'
+title: "F.Lab's DIYbio Centrifuge "
+date: "2017-05-31"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Thingiverse']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-05-31
 

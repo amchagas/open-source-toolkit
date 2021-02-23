@@ -1,9 +1,9 @@
 ---
-title: 'BluBEAM - a scanning laser microscope'
-date: '2016-01-15'
+title: "BluBEAM - a scanning laser microscope"
+date: "2016-01-15"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Hackaday.io']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-01-15
 

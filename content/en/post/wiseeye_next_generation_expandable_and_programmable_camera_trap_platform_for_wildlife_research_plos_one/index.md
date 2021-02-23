@@ -1,9 +1,9 @@
 ---
-title: 'WiseEye: Next Generation Expandable and Programmable Camera Trap Platform for Wildlife Research'
-date: '2017-01-11'
+title: "WiseEye: Next Generation Expandable and Programmable Camera Trap Platform for Wildlife Research"
+date: "2017-01-11"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-01-11
 

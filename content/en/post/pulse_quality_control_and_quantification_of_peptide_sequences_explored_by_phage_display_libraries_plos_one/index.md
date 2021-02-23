@@ -1,9 +1,9 @@
 ---
-title: 'PuLSE: Quality control and quantification of peptide sequences explored by phage display libraries'
-date: '2018-02-23'
+title: "PuLSE: Quality control and quantification of peptide sequences explored by phage display libraries"
+date: "2018-02-23"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-02-23
 

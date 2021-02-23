@@ -1,9 +1,9 @@
 ---
-title: 'Stop Hiding Your Code '
-date: '2018-04-18'
+title: "Stop Hiding Your Code "
+date: "2018-04-18"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Blogs Network']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-04-18
 

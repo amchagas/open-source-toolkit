@@ -1,9 +1,9 @@
 ---
-title: 'Facilitating reproducible project management and manuscript development in team science: The projects R package'
-date: '2019-08-16'
+title: "Facilitating reproducible project management and manuscript development in team science: The projects R package"
+date: "2019-08-16"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-08-16
 

@@ -1,9 +1,9 @@
 ---
-title: 'Democratizing science with the aid of parametric design and additive manufacturing: Design and fabrication of a versatile and low-cost optical instrument for scattering measurement'
-date: '2017-11-07'
+title: "Democratizing science with the aid of parametric design and additive manufacturing: Design and fabrication of a versatile and low-cost optical instrument for scattering measurement"
+date: "2017-11-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-11-07
 

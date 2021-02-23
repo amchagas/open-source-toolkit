@@ -1,9 +1,9 @@
 ---
-title: 'Open-source 3D printed air-jet for generating monodispersed alginate microhydrogels '
-date: '2020-02-07'
+title: "Open-source 3D printed air-jet for generating monodispersed alginate microhydrogels "
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

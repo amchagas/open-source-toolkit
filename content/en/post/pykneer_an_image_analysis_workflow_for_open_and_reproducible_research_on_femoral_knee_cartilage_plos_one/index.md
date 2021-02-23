@@ -1,9 +1,9 @@
 ---
-title: 'pyKNEEr: An image analysis workflow for open and reproducible research on femoral knee cartilage'
-date: '2020-03-03'
+title: "pyKNEEr: An image analysis workflow for open and reproducible research on femoral knee cartilage"
+date: "2020-03-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-03-03
 

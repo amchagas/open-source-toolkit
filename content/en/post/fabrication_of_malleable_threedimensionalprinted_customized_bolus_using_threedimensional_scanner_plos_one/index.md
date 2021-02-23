@@ -1,9 +1,9 @@
 ---
-title: 'Fabrication of malleable three-dimensional-printed customized bolus using three-dimensional scanner'
-date: '2017-05-11'
+title: "Fabrication of malleable three-dimensional-printed customized bolus using three-dimensional scanner"
+date: "2017-05-11"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-05-11
 

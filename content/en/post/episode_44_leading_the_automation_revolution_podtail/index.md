@@ -1,9 +1,9 @@
 ---
-title: 'Episode 44: Leading the automation revolution'
-date: '2017-10-10'
+title: "Episode 44: Leading the automation revolution"
+date: "2017-10-10"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Podtail']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-10-10
 

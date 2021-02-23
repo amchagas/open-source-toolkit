@@ -1,9 +1,9 @@
 ---
-title: 'UC2 – A Versatile and Customizable low-cost 3D-printed Optical Open-Standard for microscopic imaging '
-date: '2020-04-06'
+title: "UC2 – A Versatile and Customizable low-cost 3D-printed Optical Open-Standard for microscopic imaging "
+date: "2020-04-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-06
 

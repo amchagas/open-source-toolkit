@@ -1,9 +1,9 @@
 ---
-title: 'Vigi4Med Scraper: A Framework for Web Forum Structured Data Extraction and Semantic Representation'
-date: '2017-01-25'
+title: "Vigi4Med Scraper: A Framework for Web Forum Structured Data Extraction and Semantic Representation"
+date: "2017-01-25"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-01-25
 

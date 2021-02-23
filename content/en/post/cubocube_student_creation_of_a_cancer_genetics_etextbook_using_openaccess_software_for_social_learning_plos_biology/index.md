@@ -1,9 +1,9 @@
 ---
-title: 'CuboCube: Student creation of a cancer genetics e-textbook using open-access software for social learning'
-date: '2017-03-07'
+title: "CuboCube: Student creation of a cancer genetics e-textbook using open-access software for social learning"
+date: "2017-03-07"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-03-07
 

@@ -1,9 +1,9 @@
 ---
-title: 'The TargetMine Data Warehouse: Enhancement and Updates'
-date: '2019-11-14'
+title: "The TargetMine Data Warehouse: Enhancement and Updates"
+date: "2019-11-14"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Frontiers in Genetics']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-11-14
 

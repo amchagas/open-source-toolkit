@@ -1,9 +1,9 @@
 ---
-title: 'Open Science Means Open Source--Or, at Least, It Should '
-date: '2019-02-27'
+title: "Open Science Means Open Source--Or, at Least, It Should "
+date: "2019-02-27"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Linux Journal']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-02-27
 

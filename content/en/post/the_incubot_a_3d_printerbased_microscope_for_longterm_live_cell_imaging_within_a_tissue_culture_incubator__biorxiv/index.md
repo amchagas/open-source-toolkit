@@ -1,9 +1,9 @@
 ---
-title: 'The Incubot: A 3D Printer-Based Microscope for Long-Term Live Cell Imaging within a Tissue Culture Incubator '
-date: '2020-06-15'
+title: "The Incubot: A 3D Printer-Based Microscope for Long-Term Live Cell Imaging within a Tissue Culture Incubator "
+date: "2020-06-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-06-15
 

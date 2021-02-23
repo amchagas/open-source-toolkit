@@ -1,9 +1,9 @@
 ---
-title: 'The OpenPicoAmp: An Open-Source Planar Lipid Bilayer Amplifier for Hands-On Learning of Neuroscience'
-date: '2014-09-24'
+title: "The OpenPicoAmp: An Open-Source Planar Lipid Bilayer Amplifier for Hands-On Learning of Neuroscience"
+date: "2014-09-24"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-09-24
 

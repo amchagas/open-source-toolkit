@@ -1,9 +1,9 @@
 ---
-title: 'A ‘smart’ tube holder enables real-time sample monitoring in a standard lab centrifuge'
-date: '2018-04-16'
+title: "A ‘smart’ tube holder enables real-time sample monitoring in a standard lab centrifuge"
+date: "2018-04-16"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-04-16
 

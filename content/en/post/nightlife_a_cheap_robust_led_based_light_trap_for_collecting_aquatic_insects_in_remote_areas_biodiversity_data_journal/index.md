@@ -1,9 +1,9 @@
 ---
-title: 'NightLife: A cheap, robust, LED based light trap for collecting aquatic insects in remote areas'
-date: '2016-03-14'
+title: "NightLife: A cheap, robust, LED based light trap for collecting aquatic insects in remote areas"
+date: "2016-03-14"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Biodiversity Data Journal']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-14
 

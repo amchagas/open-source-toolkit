@@ -1,9 +1,9 @@
 ---
-title: 'A modular, open-source, slide-scanning microscope for diagnostic applications in resource-constrained settings'
-date: '2018-03-15'
+title: "A modular, open-source, slide-scanning microscope for diagnostic applications in resource-constrained settings"
+date: "2018-03-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-15
 

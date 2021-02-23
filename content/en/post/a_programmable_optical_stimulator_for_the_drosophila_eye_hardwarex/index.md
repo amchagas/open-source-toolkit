@@ -1,9 +1,9 @@
 ---
-title: 'A programmable optical stimulator for the Drosophila eye'
-date: '2017-10-01'
+title: "A programmable optical stimulator for the Drosophila eye"
+date: "2017-10-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'HardwareX']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-10-01
 

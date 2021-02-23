@@ -1,9 +1,9 @@
 ---
-title: 'Mozilla’s 48-Hour Hackathon for a Better Internet'
-date: '2018-05-07'
+title: "Mozilla’s 48-Hour Hackathon for a Better Internet"
+date: "2018-05-07"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'medium.com']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-05-07
 

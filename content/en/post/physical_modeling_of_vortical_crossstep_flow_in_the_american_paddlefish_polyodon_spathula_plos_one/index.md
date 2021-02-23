@@ -1,9 +1,9 @@
 ---
-title: 'Physical modeling of vortical cross-step flow in the American paddlefish, Polyodon spathula'
-date: '2018-03-21'
+title: "Physical modeling of vortical cross-step flow in the American paddlefish, Polyodon spathula"
+date: "2018-03-21"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-21
 

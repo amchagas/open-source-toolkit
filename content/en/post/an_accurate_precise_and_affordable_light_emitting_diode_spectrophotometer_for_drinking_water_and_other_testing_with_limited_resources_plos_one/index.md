@@ -1,9 +1,9 @@
 ---
-title: 'An accurate, precise, and affordable light emitting diode spectrophotometer for drinking water and other testing with limited resources'
-date: '2020-01-29'
+title: "An accurate, precise, and affordable light emitting diode spectrophotometer for drinking water and other testing with limited resources"
+date: "2020-01-29"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-29
 

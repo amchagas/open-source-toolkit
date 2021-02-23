@@ -1,9 +1,9 @@
 ---
-title: 'A Modular and Affordable Time-Lapse Imaging and Incubation System Based on 3D-Printed Parts, a Smartphone, and Off-The-Shelf Electronics'
-date: '2016-12-21'
+title: "A Modular and Affordable Time-Lapse Imaging and Incubation System Based on 3D-Printed Parts, a Smartphone, and Off-The-Shelf Electronics"
+date: "2016-12-21"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-12-21
 

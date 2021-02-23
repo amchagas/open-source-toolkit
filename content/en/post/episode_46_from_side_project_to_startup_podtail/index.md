@@ -1,9 +1,9 @@
 ---
-title: 'Episode 46: From side project to startup'
-date: '2017-10-31'
+title: "Episode 46: From side project to startup"
+date: "2017-10-31"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Podtail']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-10-31
 

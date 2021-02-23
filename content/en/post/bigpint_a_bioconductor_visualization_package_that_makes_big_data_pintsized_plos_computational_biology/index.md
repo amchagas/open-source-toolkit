@@ -1,9 +1,9 @@
 ---
-title: 'bigPint: A Bioconductor visualization package that makes big data pint-sized'
-date: '2020-08-18'
+title: "bigPint: A Bioconductor visualization package that makes big data pint-sized"
+date: "2020-08-18"
 authors: ['admin']
 tags:  ['Research Article', "Editor's Pick", 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-08-18
 

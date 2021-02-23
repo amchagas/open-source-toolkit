@@ -1,9 +1,9 @@
 ---
-title: 'Bayesian multiple logistic regression for case-control GWAS'
-date: '2019-01-17'
+title: "Bayesian multiple logistic regression for case-control GWAS"
+date: "2019-01-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Genetics']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-01-17
 

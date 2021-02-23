@@ -1,9 +1,9 @@
 ---
-title: 'Ten simple rules for helping newcomers become contributors to open projects'
-date: '2019-09-26'
+title: "Ten simple rules for helping newcomers become contributors to open projects"
+date: "2019-09-26"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-09-26
 

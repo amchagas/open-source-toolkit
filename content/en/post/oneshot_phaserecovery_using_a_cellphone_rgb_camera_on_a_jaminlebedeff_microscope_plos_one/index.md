@@ -1,9 +1,9 @@
 ---
-title: 'One-shot phase-recovery using a cellphone RGB camera on a Jamin-Lebedeff microscope'
-date: '2020-02-07'
+title: "One-shot phase-recovery using a cellphone RGB camera on a Jamin-Lebedeff microscope"
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

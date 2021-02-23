@@ -1,9 +1,9 @@
 ---
-title: 'A fast multispectral light synthesiser based on LEDs and a diffraction grating'
-date: '2016-08-25'
+title: "A fast multispectral light synthesiser based on LEDs and a diffraction grating"
+date: "2016-08-25"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Scientific Reports']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-08-25
 

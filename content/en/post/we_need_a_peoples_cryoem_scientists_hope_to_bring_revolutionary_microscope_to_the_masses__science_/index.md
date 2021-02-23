@@ -1,9 +1,9 @@
 ---
-title: '‘We need a people’s cryo-EM.’ Scientists hope to bring revolutionary microscope to the masses '
-date: '2020-02-07'
+title: "‘We need a people’s cryo-EM.’ Scientists hope to bring revolutionary microscope to the masses "
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Science ']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

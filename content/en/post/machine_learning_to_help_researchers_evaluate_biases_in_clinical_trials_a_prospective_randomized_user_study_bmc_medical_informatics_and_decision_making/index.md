@@ -1,9 +1,9 @@
 ---
-title: 'Machine learning to help researchers evaluate biases in clinical trials: a prospective, randomized user study'
-date: '2019-05-23'
+title: "Machine learning to help researchers evaluate biases in clinical trials: a prospective, randomized user study"
+date: "2019-05-23"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'BMC Medical Informatics and Decision Making']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-05-23
 

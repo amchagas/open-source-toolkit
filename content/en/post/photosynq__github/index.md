@@ -1,9 +1,9 @@
 ---
-title: 'Photosynq'
-date: '2016-02-15'
+title: "Photosynq"
+date: "2016-02-15"
 authors: ['admin']
 tags:  ['Web Article', 'None', ' GitHub']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-02-15
 

@@ -1,9 +1,9 @@
 ---
-title: 'Open-source Hardware Statement of Principles and Definition'
-date: '2016-07-25'
+title: "Open-source Hardware Statement of Principles and Definition"
+date: "2016-07-25"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Open Source Hardware Association']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-07-25
 

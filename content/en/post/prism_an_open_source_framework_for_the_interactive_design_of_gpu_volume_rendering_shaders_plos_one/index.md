@@ -1,9 +1,9 @@
 ---
-title: 'PRISM: An open source framework for the interactive design of GPU volume rendering shaders'
-date: '2018-03-13'
+title: "PRISM: An open source framework for the interactive design of GPU volume rendering shaders"
+date: "2018-03-13"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-13
 

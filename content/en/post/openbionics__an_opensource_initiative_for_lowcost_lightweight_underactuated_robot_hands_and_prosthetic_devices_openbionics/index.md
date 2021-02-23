@@ -1,9 +1,9 @@
 ---
-title: 'OpenBionics | An open-source initiative for low-cost, light-weight, underactuated robot hands and prosthetic devices.'
-date: '2015-10-06'
+title: "OpenBionics | An open-source initiative for low-cost, light-weight, underactuated robot hands and prosthetic devices."
+date: "2015-10-06"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'OpenBionics']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-10-06
 

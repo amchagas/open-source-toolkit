@@ -1,9 +1,9 @@
 ---
-title: 'Leveraging open hardware to alleviate the burden of COVID-19 on global health systems'
-date: '2020-05-06'
+title: "Leveraging open hardware to alleviate the burden of COVID-19 on global health systems"
+date: "2020-05-06"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-05-06
 

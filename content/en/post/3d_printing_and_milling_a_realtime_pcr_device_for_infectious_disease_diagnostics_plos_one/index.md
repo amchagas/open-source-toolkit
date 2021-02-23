@@ -1,9 +1,9 @@
 ---
-title: '3D printing and milling a real-time PCR device for infectious disease diagnostics'
-date: '2017-06-06'
+title: "3D printing and milling a real-time PCR device for infectious disease diagnostics"
+date: "2017-06-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-06-06
 

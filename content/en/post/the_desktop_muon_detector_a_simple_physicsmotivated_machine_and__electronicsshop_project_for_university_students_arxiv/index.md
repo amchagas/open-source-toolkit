@@ -1,9 +1,9 @@
 ---
-title: 'The Desktop Muon Detector: A simple, physics-motivated machine- and  electronics-shop project for university students'
-date: '2016-06-03'
+title: "The Desktop Muon Detector: A simple, physics-motivated machine- and  electronics-shop project for university students"
+date: "2016-06-03"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'arXiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-06-03
 

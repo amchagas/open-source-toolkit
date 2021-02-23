@@ -1,9 +1,9 @@
 ---
-title: 'Low cost and open source bio-engineering kit'
-date: '2015-12-03'
+title: "Low cost and open source bio-engineering kit"
+date: "2015-12-03"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Hackaday.io']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-12-03
 

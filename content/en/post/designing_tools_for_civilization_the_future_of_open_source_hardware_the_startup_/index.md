@@ -1,9 +1,9 @@
 ---
-title: 'Designing Tools for Civilization: The Future of Open Source Hardware'
-date: '2020-02-07'
+title: "Designing Tools for Civilization: The Future of Open Source Hardware"
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'The Startup ']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

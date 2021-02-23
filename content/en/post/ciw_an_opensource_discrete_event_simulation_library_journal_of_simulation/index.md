@@ -1,9 +1,9 @@
 ---
-title: 'Ciw: An open-source discrete event simulation library'
-date: '2018-05-20'
+title: "Ciw: An open-source discrete event simulation library"
+date: "2018-05-20"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Journal of Simulation']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-05-20
 

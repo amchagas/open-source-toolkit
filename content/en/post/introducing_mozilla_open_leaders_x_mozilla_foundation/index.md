@@ -1,9 +1,9 @@
 ---
-title: 'Introducing Mozilla Open Leaders X'
-date: '2019-11-14'
+title: "Introducing Mozilla Open Leaders X"
+date: "2019-11-14"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Mozilla Foundation']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-11-14
 

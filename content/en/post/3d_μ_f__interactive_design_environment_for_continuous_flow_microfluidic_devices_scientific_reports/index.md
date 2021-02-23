@@ -1,9 +1,9 @@
 ---
-title: '3D μ F - Interactive Design Environment for Continuous Flow Microfluidic Devices'
-date: '2019-07-29'
+title: "3D μ F - Interactive Design Environment for Continuous Flow Microfluidic Devices"
+date: "2019-07-29"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Scientific Reports']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-07-29
 

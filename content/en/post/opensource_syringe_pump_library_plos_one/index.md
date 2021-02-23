@@ -1,9 +1,9 @@
 ---
-title: 'Open-Source Syringe Pump Library'
-date: '2014-09-17'
+title: "Open-Source Syringe Pump Library"
+date: "2014-09-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-09-17
 

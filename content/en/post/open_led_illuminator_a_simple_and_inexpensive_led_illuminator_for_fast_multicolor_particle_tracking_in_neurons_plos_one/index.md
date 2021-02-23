@@ -1,9 +1,9 @@
 ---
-title: 'Open LED Illuminator: A Simple and Inexpensive LED Illuminator for Fast Multicolor Particle Tracking in Neurons'
-date: '2015-11-23'
+title: "Open LED Illuminator: A Simple and Inexpensive LED Illuminator for Fast Multicolor Particle Tracking in Neurons"
+date: "2015-11-23"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-11-23
 

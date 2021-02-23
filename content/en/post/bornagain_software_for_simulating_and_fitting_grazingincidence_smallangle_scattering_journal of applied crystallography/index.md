@@ -1,9 +1,9 @@
 ---
-title: 'BornAgain: software for simulating and fitting grazing-incidence small-angle scattering'
-date: '2020-03-03'
+title: "BornAgain: software for simulating and fitting grazing-incidence small-angle scattering"
+date: "2020-03-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Journal\xa0of\xa0Applied\xa0Crystallography']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-03-03
 

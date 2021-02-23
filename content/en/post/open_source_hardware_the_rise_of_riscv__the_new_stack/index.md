@@ -1,9 +1,9 @@
 ---
-title: 'Open Source Hardware: The Rise of RISC-V '
-date: '2020-04-06'
+title: "Open Source Hardware: The Rise of RISC-V "
+date: "2020-04-06"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'The New Stack']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-06
 

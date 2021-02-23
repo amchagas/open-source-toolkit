@@ -1,9 +1,9 @@
 ---
-title: 'High-speed device synchronization in optical microscopy with an open-source hardware control platform'
-date: '2019-09-05'
+title: "High-speed device synchronization in optical microscopy with an open-source hardware control platform"
+date: "2019-09-05"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Scientific Reports']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-09-05
 

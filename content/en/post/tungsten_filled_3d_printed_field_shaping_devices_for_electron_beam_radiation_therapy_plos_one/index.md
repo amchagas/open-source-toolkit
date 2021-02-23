@@ -1,9 +1,9 @@
 ---
-title: 'Tungsten filled 3D printed field shaping devices for electron beam radiation therapy'
-date: '2019-06-19'
+title: "Tungsten filled 3D printed field shaping devices for electron beam radiation therapy"
+date: "2019-06-19"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-06-19
 

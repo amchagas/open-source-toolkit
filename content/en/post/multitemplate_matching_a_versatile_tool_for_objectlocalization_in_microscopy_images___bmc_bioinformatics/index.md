@@ -1,9 +1,9 @@
 ---
-title: 'Multi-template matching: a versatile tool for object-localization in microscopy images  '
-date: '2020-03-03'
+title: "Multi-template matching: a versatile tool for object-localization in microscopy images  "
+date: "2020-03-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'BMC Bioinformatics']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-03-03
 

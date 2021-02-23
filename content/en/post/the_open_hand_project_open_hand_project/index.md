@@ -1,9 +1,9 @@
 ---
-title: 'The Open Hand Project'
-date: '2015-10-06'
+title: "The Open Hand Project"
+date: "2015-10-06"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Open Hand Project']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-10-06
 

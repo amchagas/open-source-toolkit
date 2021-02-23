@@ -1,9 +1,9 @@
 ---
-title: 'RefShannon: A genome-guided transcriptome assembler using sparse flow decomposition'
-date: '2020-08-18'
+title: "RefShannon: A genome-guided transcriptome assembler using sparse flow decomposition"
+date: "2020-08-18"
 authors: ['admin']
 tags:  ['Research Article', 'Featured research', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-08-18
 

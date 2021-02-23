@@ -1,9 +1,9 @@
 ---
-title: 'Hackaday.io'
-date: '2015-10-06'
+title: "Hackaday.io"
+date: "2015-10-06"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Hackaday.io']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-10-06
 

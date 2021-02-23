@@ -1,9 +1,9 @@
 ---
-title: 'The Language of Glove: Wireless gesture decoder with low-power and stretchable hybrid electronics'
-date: '2017-07-12'
+title: "The Language of Glove: Wireless gesture decoder with low-power and stretchable hybrid electronics"
+date: "2017-07-12"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-07-12
 

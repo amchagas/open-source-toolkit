@@ -1,9 +1,9 @@
 ---
-title: 'Tech and Covid-19: open source needed for contact tracing apps'
-date: '2020-05-12'
+title: "Tech and Covid-19: open source needed for contact tracing apps"
+date: "2020-05-12"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Information Age']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-05-12
 

@@ -1,9 +1,9 @@
 ---
-title: 'Repository-based plasmid design'
-date: '2020-03-03'
+title: "Repository-based plasmid design"
+date: "2020-03-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-03-03
 

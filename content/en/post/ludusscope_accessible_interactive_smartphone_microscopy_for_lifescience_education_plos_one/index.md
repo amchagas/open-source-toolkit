@@ -1,9 +1,9 @@
 ---
-title: 'LudusScope: Accessible Interactive Smartphone Microscopy for Life-Science Education'
-date: '2016-10-05'
+title: "LudusScope: Accessible Interactive Smartphone Microscopy for Life-Science Education"
+date: "2016-10-05"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-10-05
 

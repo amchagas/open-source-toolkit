@@ -1,9 +1,9 @@
 ---
-title: 'Exploring thematic structure and predicted functionality of 16S rRNA amplicon data'
-date: '2020-01-15'
+title: "Exploring thematic structure and predicted functionality of 16S rRNA amplicon data"
+date: "2020-01-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-15
 

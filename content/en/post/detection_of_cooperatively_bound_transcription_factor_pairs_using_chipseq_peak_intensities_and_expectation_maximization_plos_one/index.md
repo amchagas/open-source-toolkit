@@ -1,9 +1,9 @@
 ---
-title: 'Detection of cooperatively bound transcription factor pairs using ChIP-seq peak intensities and expectation maximization'
-date: '2018-07-17'
+title: "Detection of cooperatively bound transcription factor pairs using ChIP-seq peak intensities and expectation maximization"
+date: "2018-07-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-07-17
 

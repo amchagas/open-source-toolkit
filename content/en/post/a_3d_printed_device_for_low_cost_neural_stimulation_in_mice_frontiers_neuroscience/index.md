@@ -1,9 +1,9 @@
 ---
-title: 'A 3D Printed Device for Low Cost Neural Stimulation in Mice'
-date: '2019-09-05'
+title: "A 3D Printed Device for Low Cost Neural Stimulation in Mice"
+date: "2019-09-05"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Frontiers Neuroscience']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-09-05
 

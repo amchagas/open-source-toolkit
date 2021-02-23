@@ -1,9 +1,9 @@
 ---
-title: 'Knowledge-guided analysis of "omics" data using the KnowEnG cloud platform'
-date: '2020-01-23'
+title: "Knowledge-guided analysis of omics data using the KnowEnG cloud platform"
+date: "2020-01-23"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-23
 

@@ -1,9 +1,9 @@
 ---
-title: 'Robotic microscopy for everyone: the OpenFlexure Microscope'
-date: '2020-02-07'
+title: "Robotic microscopy for everyone: the OpenFlexure Microscope"
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

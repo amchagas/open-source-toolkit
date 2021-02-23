@@ -1,9 +1,9 @@
 ---
-title: 'OPENROV V2.8 MINI OBSERVATION CLASS ROV'
-date: '2016-01-13'
+title: "OPENROV V2.8 MINI OBSERVATION CLASS ROV"
+date: "2016-01-13"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Wevolver']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-01-13
 

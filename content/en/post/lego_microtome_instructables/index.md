@@ -1,9 +1,9 @@
 ---
-title: 'Lego Microtome'
-date: '2016-03-21'
+title: "Lego Microtome"
+date: "2016-03-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Instructables']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-21
 

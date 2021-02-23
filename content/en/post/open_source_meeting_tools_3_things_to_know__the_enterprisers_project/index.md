@@ -1,9 +1,9 @@
 ---
-title: 'Open source meeting tools: 3 things to know '
-date: '2020-05-12'
+title: "Open source meeting tools: 3 things to know "
+date: "2020-05-12"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'The Enterprisers Project']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-05-12
 

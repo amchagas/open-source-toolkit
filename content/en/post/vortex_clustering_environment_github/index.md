@@ -1,9 +1,9 @@
 ---
-title: 'VorteX Clustering Environment'
-date: '2017-03-23'
+title: "VorteX Clustering Environment"
+date: "2017-03-23"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Github']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-03-23
 

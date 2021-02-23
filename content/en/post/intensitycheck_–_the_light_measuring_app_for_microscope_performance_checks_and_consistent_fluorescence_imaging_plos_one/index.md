@@ -1,9 +1,9 @@
 ---
-title: 'IntensityCheck – The light measuring app for microscope performance checks and consistent fluorescence imaging'
-date: '2019-05-02'
+title: "IntensityCheck – The light measuring app for microscope performance checks and consistent fluorescence imaging"
+date: "2019-05-02"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-05-02
 

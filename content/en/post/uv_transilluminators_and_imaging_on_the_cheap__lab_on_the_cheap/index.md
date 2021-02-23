@@ -1,9 +1,9 @@
 ---
-title: 'UV Transilluminators and Imaging on the Cheap '
-date: '2019-06-17'
+title: "UV Transilluminators and Imaging on the Cheap "
+date: "2019-06-17"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Lab On The Cheap']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-06-17
 

@@ -1,9 +1,9 @@
 ---
-title: 'ColiCoords: A Python package for the analysis of bacterial fluorescence microscopy data'
-date: '2019-06-04'
+title: "ColiCoords: A Python package for the analysis of bacterial fluorescence microscopy data"
+date: "2019-06-04"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-06-04
 

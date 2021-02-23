@@ -1,9 +1,9 @@
 ---
-title: 'Design of a 3D-printed, open-source wrist-driven orthosis for individuals with spinal cord injury'
-date: '2018-02-22'
+title: "Design of a 3D-printed, open-source wrist-driven orthosis for individuals with spinal cord injury"
+date: "2018-02-22"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-02-22
 

@@ -1,9 +1,9 @@
 ---
-title: 'Improving robot manipulation through fingertip perception'
-date: '2012-01-10'
+title: "Improving robot manipulation through fingertip perception"
+date: "2012-01-10"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Intelligent Autonomous Systems']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2012-01-10
 

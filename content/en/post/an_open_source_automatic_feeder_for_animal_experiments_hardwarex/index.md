@@ -1,9 +1,9 @@
 ---
-title: 'An open source automatic feeder for animal experiments'
-date: '2016-09-06'
+title: "An open source automatic feeder for animal experiments"
+date: "2016-09-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'HardwareX']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-09-06
 

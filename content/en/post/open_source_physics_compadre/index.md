@@ -1,9 +1,9 @@
 ---
-title: 'Open Source Physics'
-date: '2015-10-21'
+title: "Open Source Physics"
+date: "2015-10-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Compadre']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-10-21
 

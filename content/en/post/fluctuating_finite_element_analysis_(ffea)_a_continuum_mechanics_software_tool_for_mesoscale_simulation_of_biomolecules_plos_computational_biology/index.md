@@ -1,9 +1,9 @@
 ---
-title: 'Fluctuating Finite Element Analysis (FFEA): A continuum mechanics software tool for mesoscale simulation of biomolecules'
-date: '2018-03-23'
+title: "Fluctuating Finite Element Analysis (FFEA): A continuum mechanics software tool for mesoscale simulation of biomolecules"
+date: "2018-03-23"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-23
 

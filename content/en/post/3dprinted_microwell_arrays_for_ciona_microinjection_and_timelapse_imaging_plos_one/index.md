@@ -1,9 +1,9 @@
 ---
-title: '3D-Printed Microwell Arrays for Ciona Microinjection and Timelapse Imaging'
-date: '2013-12-06'
+title: "3D-Printed Microwell Arrays for Ciona Microinjection and Timelapse Imaging"
+date: "2013-12-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2013-12-06
 

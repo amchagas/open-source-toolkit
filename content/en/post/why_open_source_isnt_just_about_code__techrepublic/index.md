@@ -1,9 +1,9 @@
 ---
-title: 'Why open source isn't just about code '
-date: '2018-06-01'
+title: "Why open source isn't just about code "
+date: "2018-06-01"
 authors: ['admin']
 tags:  ['Video', 'None', 'TechRepublic']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-06-01
 

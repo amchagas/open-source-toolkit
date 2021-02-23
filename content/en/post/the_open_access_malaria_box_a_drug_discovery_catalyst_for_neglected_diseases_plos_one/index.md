@@ -1,9 +1,9 @@
 ---
-title: 'The Open Access Malaria Box: A Drug Discovery Catalyst for Neglected Diseases'
-date: '2013-06-17'
+title: "The Open Access Malaria Box: A Drug Discovery Catalyst for Neglected Diseases"
+date: "2013-06-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2013-06-17
 

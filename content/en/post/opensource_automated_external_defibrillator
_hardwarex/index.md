@@ -1,10 +1,10 @@
 ---
-title: 'Open-source automated external defibrillator
-'
-date: '2017-10-01'
+title: "Open-source automated external defibrillator
+"
+date: "2017-10-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'HardwareX']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-10-01
 

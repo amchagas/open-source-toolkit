@@ -1,9 +1,9 @@
 ---
-title: 'AMi: a GUI-based, open-source system for imaging samples in multi-well plates'
-date: '2019-09-05'
+title: "AMi: a GUI-based, open-source system for imaging samples in multi-well plates"
+date: "2019-09-05"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Methods Communications ']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-09-05
 

@@ -1,9 +1,9 @@
 ---
-title: 'Individualized 3D printing navigation template for pedicle screw fixation in upper cervical spine'
-date: '2017-02-02'
+title: "Individualized 3D printing navigation template for pedicle screw fixation in upper cervical spine"
+date: "2017-02-02"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-02-02
 

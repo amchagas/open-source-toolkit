@@ -1,9 +1,9 @@
 ---
-title: 'Open Hardware: Open-Source MRI Scanners Could Bring Enormous Cost Savings '
-date: '2019-07-29'
+title: "Open Hardware: Open-Source MRI Scanners Could Bring Enormous Cost Savings "
+date: "2019-07-29"
 authors: ['admin']
 tags:  ['Web Article', 'None', '3DPrint.com']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-07-29
 

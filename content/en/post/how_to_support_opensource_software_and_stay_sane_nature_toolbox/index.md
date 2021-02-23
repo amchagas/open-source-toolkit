@@ -1,9 +1,9 @@
 ---
-title: 'How to support open-source software and stay sane'
-date: '2019-08-16'
+title: "How to support open-source software and stay sane"
+date: "2019-08-16"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Nature Toolbox']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-08-16
 

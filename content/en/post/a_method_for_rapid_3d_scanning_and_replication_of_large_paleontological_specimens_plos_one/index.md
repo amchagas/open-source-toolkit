@@ -1,9 +1,9 @@
 ---
-title: 'A method for rapid 3D scanning and replication of large paleontological specimens'
-date: '2017-07-05'
+title: "A method for rapid 3D scanning and replication of large paleontological specimens"
+date: "2017-07-05"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-07-05
 

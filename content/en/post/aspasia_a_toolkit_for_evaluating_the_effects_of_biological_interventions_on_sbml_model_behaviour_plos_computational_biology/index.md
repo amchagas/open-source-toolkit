@@ -1,9 +1,9 @@
 ---
-title: 'ASPASIA: A toolkit for evaluating the effects of biological interventions on SBML model behaviour'
-date: '2017-02-03'
+title: "ASPASIA: A toolkit for evaluating the effects of biological interventions on SBML model behaviour"
+date: "2017-02-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-02-03
 

@@ -1,9 +1,9 @@
 ---
-title: 'Efficient methods and readily customizable libraries for managing complexity of large networks'
-date: '2018-05-29'
+title: "Efficient methods and readily customizable libraries for managing complexity of large networks"
+date: "2018-05-29"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-05-29
 

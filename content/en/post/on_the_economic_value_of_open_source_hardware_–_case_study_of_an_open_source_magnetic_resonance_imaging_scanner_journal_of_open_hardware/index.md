@@ -1,9 +1,9 @@
 ---
-title: 'On the Economic Value of Open Source Hardware – Case Study of an Open Source Magnetic Resonance Imaging Scanner'
-date: '2019-07-29'
+title: "On the Economic Value of Open Source Hardware – Case Study of an Open Source Magnetic Resonance Imaging Scanner"
+date: "2019-07-29"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Journal of Open Hardware']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-07-29
 

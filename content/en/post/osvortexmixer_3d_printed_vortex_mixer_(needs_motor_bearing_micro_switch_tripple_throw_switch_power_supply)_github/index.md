@@ -1,9 +1,9 @@
 ---
-title: 'OS-Vortex-Mixer: 3D printed vortex mixer (needs motor, bearing, micro switch, tripple throw switch, power supply)'
-date: '2016-03-17'
+title: "OS-Vortex-Mixer: 3D printed vortex mixer (needs motor, bearing, micro switch, tripple throw switch, power supply)"
+date: "2016-03-17"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'GitHub']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-17
 

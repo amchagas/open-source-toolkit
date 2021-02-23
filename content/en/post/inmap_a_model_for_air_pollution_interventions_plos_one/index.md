@@ -1,9 +1,9 @@
 ---
-title: 'InMAP: A model for air pollution interventions'
-date: '2017-04-19'
+title: "InMAP: A model for air pollution interventions"
+date: "2017-04-19"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-04-19
 

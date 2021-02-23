@@ -1,9 +1,9 @@
 ---
-title: 'Stytra: An open-source, integrated system for stimulation, tracking and closed-loop behavioral experiments'
-date: '2019-05-23'
+title: "Stytra: An open-source, integrated system for stimulation, tracking and closed-loop behavioral experiments"
+date: "2019-05-23"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-05-23
 

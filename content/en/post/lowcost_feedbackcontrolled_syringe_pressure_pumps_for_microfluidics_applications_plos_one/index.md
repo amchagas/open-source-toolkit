@@ -1,9 +1,9 @@
 ---
-title: 'Low-cost feedback-controlled syringe pressure pumps for microfluidics applications'
-date: '2017-04-03'
+title: "Low-cost feedback-controlled syringe pressure pumps for microfluidics applications"
+date: "2017-04-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-04-03
 

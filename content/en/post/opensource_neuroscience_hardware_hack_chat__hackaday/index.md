@@ -1,9 +1,9 @@
 ---
-title: 'Open-Source Neuroscience Hardware Hack Chat '
-date: '2020-04-06'
+title: "Open-Source Neuroscience Hardware Hack Chat "
+date: "2020-04-06"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Hackaday']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-06
 

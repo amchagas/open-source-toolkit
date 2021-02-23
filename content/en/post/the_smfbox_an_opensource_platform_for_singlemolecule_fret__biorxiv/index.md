@@ -1,9 +1,9 @@
 ---
-title: 'The smfBox: an open-source platform for single-molecule FRET '
-date: '2020-02-07'
+title: "The smfBox: an open-source platform for single-molecule FRET "
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

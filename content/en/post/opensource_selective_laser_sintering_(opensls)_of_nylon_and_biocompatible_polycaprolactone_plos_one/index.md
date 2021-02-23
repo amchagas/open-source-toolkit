@@ -1,9 +1,9 @@
 ---
-title: 'Open-Source Selective Laser Sintering (OpenSLS) of Nylon and Biocompatible Polycaprolactone'
-date: '2016-02-03'
+title: "Open-Source Selective Laser Sintering (OpenSLS) of Nylon and Biocompatible Polycaprolactone"
+date: "2016-02-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-02-03
 

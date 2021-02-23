@@ -1,9 +1,9 @@
 ---
-title: 'Essential Open Source Software for Science'
-date: '2019-05-23'
+title: "Essential Open Source Software for Science"
+date: "2019-05-23"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Chan Zuckerberg Science Initiative']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-05-23
 

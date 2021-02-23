@@ -1,9 +1,9 @@
 ---
-title: 'Dataflow programming for the analysis of molecular dynamics with AViS, an analysis and visualization software application'
-date: '2020-04-21'
+title: "Dataflow programming for the analysis of molecular dynamics with AViS, an analysis and visualization software application"
+date: "2020-04-21"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-21
 

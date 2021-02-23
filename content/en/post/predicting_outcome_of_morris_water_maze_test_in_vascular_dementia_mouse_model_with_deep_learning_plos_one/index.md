@@ -1,9 +1,9 @@
 ---
-title: 'Predicting outcome of Morris water maze test in vascular dementia mouse model with deep learning'
-date: '2018-02-07'
+title: "Predicting outcome of Morris water maze test in vascular dementia mouse model with deep learning"
+date: "2018-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-02-07
 

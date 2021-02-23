@@ -1,9 +1,9 @@
 ---
-title: 'Ball bearing dispenser'
-date: '2016-03-21'
+title: "Ball bearing dispenser"
+date: "2016-03-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Docubricks']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-21
 

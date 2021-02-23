@@ -1,9 +1,9 @@
 ---
-title: 'CuboCube = Learn Better with Free Social Knowledgebase'
-date: '2017-03-04'
+title: "CuboCube = Learn Better with Free Social Knowledgebase"
+date: "2017-03-04"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'cubocube']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-03-04
 

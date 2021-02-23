@@ -1,9 +1,9 @@
 ---
-title: 'Fabricating optical lenses by inkjet printing and heat-assisted in situ curing of polydimethylsiloxane for smartphone microscopy'
-date: '2015-03-30'
+title: "Fabricating optical lenses by inkjet printing and heat-assisted in situ curing of polydimethylsiloxane for smartphone microscopy"
+date: "2015-03-30"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'SPIE | Journal of Biomedical Optics']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-03-30
 

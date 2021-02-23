@@ -1,9 +1,9 @@
 ---
-title: 'Build a Gel Electrophoresis Chamber (PDF download)'
-date: '2016-03-21'
+title: "Build a Gel Electrophoresis Chamber (PDF download)"
+date: "2016-03-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Genetic Science Learning Centre']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-21
 

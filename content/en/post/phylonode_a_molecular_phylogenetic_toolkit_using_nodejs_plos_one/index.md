@@ -1,9 +1,9 @@
 ---
-title: 'phylo-node: A molecular phylogenetic toolkit using Node.js'
-date: '2017-04-14'
+title: "phylo-node: A molecular phylogenetic toolkit using Node.js"
+date: "2017-04-14"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-04-14
 

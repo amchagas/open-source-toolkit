@@ -1,9 +1,9 @@
 ---
-title: 'OSA | Open-source do-it-yourself multi-color fluorescence smartphone microscopy'
-date: '2019-06-17'
+title: "OSA | Open-source do-it-yourself multi-color fluorescence smartphone microscopy"
+date: "2019-06-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Biomedical Optics Express']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-06-17
 

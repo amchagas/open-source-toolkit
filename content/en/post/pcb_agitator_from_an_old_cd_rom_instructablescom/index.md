@@ -1,9 +1,9 @@
 ---
-title: 'PCB agitator from an old CD ROM'
-date: '2016-02-15'
+title: "PCB agitator from an old CD ROM"
+date: "2016-02-15"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Instructables.com']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-02-15
 

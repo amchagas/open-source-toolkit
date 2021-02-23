@@ -1,9 +1,9 @@
 ---
-title: 'GitHub Sealed Away Its Open Source Code In an Arctic Fault '
-date: '2020-08-18'
+title: "GitHub Sealed Away Its Open Source Code In an Arctic Fault "
+date: "2020-08-18"
 authors: ['admin']
 tags:  ['Web Article', 'Related content', 'Futurism']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-08-18
 

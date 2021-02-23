@@ -1,9 +1,9 @@
 ---
-title: 'RAINBOW: Haplotype-based genome-wide association study using a novel SNP-set method'
-date: '2020-02-14'
+title: "RAINBOW: Haplotype-based genome-wide association study using a novel SNP-set method"
+date: "2020-02-14"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-14
 

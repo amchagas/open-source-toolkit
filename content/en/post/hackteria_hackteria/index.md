@@ -1,9 +1,9 @@
 ---
-title: 'Hackteria'
-date: '2015-10-06'
+title: "Hackteria"
+date: "2015-10-06"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Hackteria']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-10-06
 

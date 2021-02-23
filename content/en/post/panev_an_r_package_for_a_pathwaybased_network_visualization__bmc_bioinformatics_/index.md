@@ -1,9 +1,9 @@
 ---
-title: 'PANEV: an R package for a pathway-based network visualization '
-date: '2020-03-03'
+title: "PANEV: an R package for a pathway-based network visualization "
+date: "2020-03-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'BMC Bioinformatics ']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-03-03
 

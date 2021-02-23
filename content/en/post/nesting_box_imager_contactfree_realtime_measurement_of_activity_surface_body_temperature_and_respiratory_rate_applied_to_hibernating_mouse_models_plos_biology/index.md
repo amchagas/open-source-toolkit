@@ -1,9 +1,9 @@
 ---
-title: 'Nesting box imager: Contact-free, real-time measurement of activity, surface body temperature, and respiratory rate applied to hibernating mouse models'
-date: '2019-09-05'
+title: "Nesting box imager: Contact-free, real-time measurement of activity, surface body temperature, and respiratory rate applied to hibernating mouse models"
+date: "2019-09-05"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-09-05
 

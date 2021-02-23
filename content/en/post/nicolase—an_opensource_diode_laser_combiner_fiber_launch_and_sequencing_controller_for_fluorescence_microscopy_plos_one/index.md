@@ -1,9 +1,9 @@
 ---
-title: 'NicoLase—An open-source diode laser combiner, fiber launch, and sequencing controller for fluorescence microscopy'
-date: '2017-03-16'
+title: "NicoLase—An open-source diode laser combiner, fiber launch, and sequencing controller for fluorescence microscopy"
+date: "2017-03-16"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-03-16
 

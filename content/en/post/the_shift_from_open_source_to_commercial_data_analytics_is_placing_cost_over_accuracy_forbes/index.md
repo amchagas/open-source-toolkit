@@ -1,9 +1,9 @@
 ---
-title: 'The Shift From Open Source To Commercial Data Analytics Is Placing Cost Over Accuracy'
-date: '2019-04-11'
+title: "The Shift From Open Source To Commercial Data Analytics Is Placing Cost Over Accuracy"
+date: "2019-04-11"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Forbes']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-04-11
 

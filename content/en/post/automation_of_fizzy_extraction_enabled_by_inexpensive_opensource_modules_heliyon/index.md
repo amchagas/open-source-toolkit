@@ -1,9 +1,9 @@
 ---
-title: 'Automation of fizzy extraction enabled by inexpensive open-source modules'
-date: '2019-06-17'
+title: "Automation of fizzy extraction enabled by inexpensive open-source modules"
+date: "2019-06-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Heliyon']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-06-17
 

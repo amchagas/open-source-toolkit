@@ -1,9 +1,9 @@
 ---
-title: 'A lab-on-phone instrument with varifocal microscope via a liquid-actuated aspheric lens (LAL)'
-date: '2017-06-26'
+title: "A lab-on-phone instrument with varifocal microscope via a liquid-actuated aspheric lens (LAL)"
+date: "2017-06-26"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-06-26
 

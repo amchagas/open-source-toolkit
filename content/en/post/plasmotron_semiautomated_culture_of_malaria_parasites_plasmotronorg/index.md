@@ -1,9 +1,9 @@
 ---
-title: 'PlasmoTron: Semi-automated culture of malaria parasites'
-date: '2018-05-15'
+title: "PlasmoTron: Semi-automated culture of malaria parasites"
+date: "2018-05-15"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'plasmotron.org']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-05-15
 

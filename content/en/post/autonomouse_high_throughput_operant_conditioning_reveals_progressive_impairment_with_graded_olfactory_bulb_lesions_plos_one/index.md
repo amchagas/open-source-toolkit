@@ -1,9 +1,9 @@
 ---
-title: 'AutonoMouse: High throughput operant conditioning reveals progressive impairment with graded olfactory bulb lesions'
-date: '2019-03-28'
+title: "AutonoMouse: High throughput operant conditioning reveals progressive impairment with graded olfactory bulb lesions"
+date: "2019-03-28"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-03-28
 

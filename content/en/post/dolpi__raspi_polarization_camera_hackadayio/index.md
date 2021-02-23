@@ -1,9 +1,9 @@
 ---
-title: 'DOLPi - RasPi Polarization Camera'
-date: '2016-02-15'
+title: "DOLPi - RasPi Polarization Camera"
+date: "2016-02-15"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Hackaday.io']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-02-15
 

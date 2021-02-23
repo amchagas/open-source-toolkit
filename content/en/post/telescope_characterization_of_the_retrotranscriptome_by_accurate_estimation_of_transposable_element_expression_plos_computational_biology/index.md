@@ -1,9 +1,9 @@
 ---
-title: 'Telescope: Characterization of the retrotranscriptome by accurate estimation of transposable element expression'
-date: '2019-10-17'
+title: "Telescope: Characterization of the retrotranscriptome by accurate estimation of transposable element expression"
+date: "2019-10-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-10-17
 

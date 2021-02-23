@@ -1,9 +1,9 @@
 ---
-title: 'BioJava 5: A community driven open-source bioinformatics library'
-date: '2019-02-27'
+title: "BioJava 5: A community driven open-source bioinformatics library"
+date: "2019-02-27"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-02-27
 

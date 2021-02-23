@@ -1,9 +1,9 @@
 ---
-title: 'UCLA Miniscope'
-date: '2016-04-13'
+title: "UCLA Miniscope"
+date: "2016-04-13"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'miniscope.org']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-04-13
 

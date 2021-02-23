@@ -1,9 +1,9 @@
 ---
-title: 'odMLtables: A User-Friendly Approach for Managing Metadata of Neurophysiological Experiments'
-date: '2019-11-14'
+title: "odMLtables: A User-Friendly Approach for Managing Metadata of Neurophysiological Experiments"
+date: "2019-11-14"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Frontiers in Neuroinformatics']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-11-14
 

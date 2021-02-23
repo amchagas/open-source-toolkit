@@ -1,9 +1,9 @@
 ---
-title: 'riboWaltz: Optimization of ribosome P-site positioning in ribosome profiling data'
-date: '2018-08-13'
+title: "riboWaltz: Optimization of ribosome P-site positioning in ribosome profiling data"
+date: "2018-08-13"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-08-13
 

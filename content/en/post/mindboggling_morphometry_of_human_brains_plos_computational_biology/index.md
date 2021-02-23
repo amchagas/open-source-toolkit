@@ -1,9 +1,9 @@
 ---
-title: 'Mindboggling morphometry of human brains'
-date: '2017-02-23'
+title: "Mindboggling morphometry of human brains"
+date: "2017-02-23"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-02-23
 

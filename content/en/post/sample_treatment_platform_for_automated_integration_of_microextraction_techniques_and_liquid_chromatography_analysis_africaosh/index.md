@@ -1,9 +1,9 @@
 ---
-title: 'Sample treatment platform for automated integration of microextraction techniques and liquid chromatography analysis'
-date: '2017-12-01'
+title: "Sample treatment platform for automated integration of microextraction techniques and liquid chromatography analysis"
+date: "2017-12-01"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'AfricaOSH']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-12-01
 

@@ -1,9 +1,9 @@
 ---
-title: 'High-Throughput Tabular Data Processor – Platform independent graphical tool for processing large data sets'
-date: '2018-02-12'
+title: "High-Throughput Tabular Data Processor – Platform independent graphical tool for processing large data sets"
+date: "2018-02-12"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-02-12
 

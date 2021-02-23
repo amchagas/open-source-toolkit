@@ -1,9 +1,9 @@
 ---
-title: 'ReaDDy 2: Fast and flexible software framework for interacting-particle reaction dynamics'
-date: '2019-04-11'
+title: "ReaDDy 2: Fast and flexible software framework for interacting-particle reaction dynamics"
+date: "2019-04-11"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-04-11
 

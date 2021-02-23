@@ -1,9 +1,9 @@
 ---
-title: '$10 Smartphone to digital microscope conversion!'
-date: '2016-03-21'
+title: "$10 Smartphone to digital microscope conversion!"
+date: "2016-03-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Instructables']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-21
 

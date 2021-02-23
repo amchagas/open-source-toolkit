@@ -1,9 +1,9 @@
 ---
-title: 'webpic: A flexible web application for collecting distance and count measurements from images'
-date: '2018-04-02'
+title: "webpic: A flexible web application for collecting distance and count measurements from images"
+date: "2018-04-02"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-04-02
 

@@ -1,9 +1,9 @@
 ---
-title: 'Bioconda: A sustainable and comprehensive software distribution for the life sciences'
-date: '2017-10-27'
+title: "Bioconda: A sustainable and comprehensive software distribution for the life sciences"
+date: "2017-10-27"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-10-27
 

@@ -1,9 +1,9 @@
 ---
-title: 'An Open Source 3-D Printed Modular Micro-Drive System for Acute Neurophysiology'
-date: '2014-04-15'
+title: "An Open Source 3-D Printed Modular Micro-Drive System for Acute Neurophysiology"
+date: "2014-04-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-04-15
 

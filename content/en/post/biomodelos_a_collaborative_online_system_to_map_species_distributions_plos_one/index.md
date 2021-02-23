@@ -1,9 +1,9 @@
 ---
-title: 'BioModelos: A collaborative online system to map species distributions'
-date: '2019-04-11'
+title: "BioModelos: A collaborative online system to map species distributions"
+date: "2019-04-11"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-04-11
 

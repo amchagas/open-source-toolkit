@@ -1,9 +1,9 @@
 ---
-title: 'Collective behavior quantification on human odor effects against female Aedes aegypti mosquitoes—Open source development'
-date: '2017-02-02'
+title: "Collective behavior quantification on human odor effects against female Aedes aegypti mosquitoes—Open source development"
+date: "2017-02-02"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-02-02
 

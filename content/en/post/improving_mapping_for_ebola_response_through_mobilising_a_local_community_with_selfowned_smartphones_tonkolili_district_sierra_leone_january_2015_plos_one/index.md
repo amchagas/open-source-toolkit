@@ -1,9 +1,9 @@
 ---
-title: 'Improving mapping for Ebola response through mobilising a local community with self-owned smartphones: Tonkolili District, Sierra Leone, January 2015'
-date: '2018-01-03'
+title: "Improving mapping for Ebola response through mobilising a local community with self-owned smartphones: Tonkolili District, Sierra Leone, January 2015"
+date: "2018-01-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-01-03
 

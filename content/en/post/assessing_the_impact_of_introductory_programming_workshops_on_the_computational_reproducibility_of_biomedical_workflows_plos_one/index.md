@@ -1,9 +1,9 @@
 ---
-title: 'Assessing the impact of introductory programming workshops on the computational reproducibility of biomedical workflows'
-date: '2020-08-18'
+title: "Assessing the impact of introductory programming workshops on the computational reproducibility of biomedical workflows"
+date: "2020-08-18"
 authors: ['admin']
 tags:  ['Research Article', 'Related content', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-08-18
 

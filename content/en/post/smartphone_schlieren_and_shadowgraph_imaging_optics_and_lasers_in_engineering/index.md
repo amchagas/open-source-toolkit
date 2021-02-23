@@ -1,9 +1,9 @@
 ---
-title: 'Smartphone schlieren and shadowgraph imaging'
-date: '2017-07-11'
+title: "Smartphone schlieren and shadowgraph imaging"
+date: "2017-07-11"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Optics and Lasers in Engineering']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-07-11
 

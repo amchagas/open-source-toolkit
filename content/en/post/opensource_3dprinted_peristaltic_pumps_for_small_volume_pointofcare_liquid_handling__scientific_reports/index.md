@@ -1,9 +1,9 @@
 ---
-title: 'Open-source, 3D-printed Peristaltic Pumps for Small Volume Point-of-Care Liquid Handling '
-date: '2020-04-06'
+title: "Open-source, 3D-printed Peristaltic Pumps for Small Volume Point-of-Care Liquid Handling "
+date: "2020-04-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Scientific Reports']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-06
 

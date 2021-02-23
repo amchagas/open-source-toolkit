@@ -1,9 +1,9 @@
 ---
-title: 'Gathering for Open Science Hardware 2017: building a movement'
-date: '2017-03-27'
+title: "Gathering for Open Science Hardware 2017: building a movement"
+date: "2017-03-27"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'PLOS Blogs']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-03-27
 

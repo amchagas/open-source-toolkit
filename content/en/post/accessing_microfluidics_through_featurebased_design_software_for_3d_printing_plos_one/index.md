@@ -1,9 +1,9 @@
 ---
-title: 'Accessing microfluidics through feature-based design software for 3D printing'
-date: '2018-03-29'
+title: "Accessing microfluidics through feature-based design software for 3D printing"
+date: "2018-03-29"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-29
 

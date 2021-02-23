@@ -1,9 +1,9 @@
 ---
-title: 'Low-cost (<€5), open-source, potential alternative to commercial spectrophotometers'
-date: '2019-06-12'
+title: "Low-cost (<€5), open-source, potential alternative to commercial spectrophotometers"
+date: "2019-06-12"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-06-12
 

@@ -1,9 +1,9 @@
 ---
-title: 'PSoC-Stat: A single chip open source potentiostat based on a Programmable System on a Chip '
-date: '2018-07-25'
+title: "PSoC-Stat: A single chip open source potentiostat based on a Programmable System on a Chip "
+date: "2018-07-25"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-07-25
 

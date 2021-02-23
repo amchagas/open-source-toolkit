@@ -1,9 +1,9 @@
 ---
-title: 'Talon Hand'
-date: '2014-01-19'
+title: "Talon Hand"
+date: "2014-01-19"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Thingiverse']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-01-19
 

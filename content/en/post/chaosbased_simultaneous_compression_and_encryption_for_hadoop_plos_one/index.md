@@ -1,9 +1,9 @@
 ---
-title: 'Chaos-Based Simultaneous Compression and Encryption for Hadoop'
-date: '2017-01-10'
+title: "Chaos-Based Simultaneous Compression and Encryption for Hadoop"
+date: "2017-01-10"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-01-10
 

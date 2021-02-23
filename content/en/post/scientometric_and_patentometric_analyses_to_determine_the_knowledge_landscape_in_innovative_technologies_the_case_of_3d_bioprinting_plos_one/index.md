@@ -1,9 +1,9 @@
 ---
-title: 'Scientometric and patentometric analyses to determine the knowledge landscape in innovative technologies: The case of 3D bioprinting'
-date: '2017-06-29'
+title: "Scientometric and patentometric analyses to determine the knowledge landscape in innovative technologies: The case of 3D bioprinting"
+date: "2017-06-29"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-06-29
 

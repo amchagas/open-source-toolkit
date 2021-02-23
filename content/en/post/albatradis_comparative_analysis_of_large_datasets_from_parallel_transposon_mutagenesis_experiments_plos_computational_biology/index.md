@@ -1,9 +1,9 @@
 ---
-title: 'AlbaTraDIS: Comparative analysis of large datasets from parallel transposon mutagenesis experiments'
-date: '2020-08-18'
+title: "AlbaTraDIS: Comparative analysis of large datasets from parallel transposon mutagenesis experiments"
+date: "2020-08-18"
 authors: ['admin']
 tags:  ['Research Article', 'Featured research', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-08-18
 

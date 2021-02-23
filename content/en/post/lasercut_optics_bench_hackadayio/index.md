@@ -1,9 +1,9 @@
 ---
-title: 'Lasercut Optics Bench'
-date: '2016-04-13'
+title: "Lasercut Optics Bench"
+date: "2016-04-13"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Hackaday.io']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-04-13
 

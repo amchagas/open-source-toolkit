@@ -1,9 +1,9 @@
 ---
-title: 'Scientific Community Image Forum: A discussion forum for scientific image software'
-date: '2019-07-04'
+title: "Scientific Community Image Forum: A discussion forum for scientific image software"
+date: "2019-07-04"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-07-04
 

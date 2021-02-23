@@ -1,9 +1,9 @@
 ---
-title: 'shinyGISPA: A web application for characterizing phenotype by gene sets using multiple omics data combinations'
-date: '2018-02-07'
+title: "shinyGISPA: A web application for characterizing phenotype by gene sets using multiple omics data combinations"
+date: "2018-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-02-07
 

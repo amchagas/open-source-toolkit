@@ -1,9 +1,9 @@
 ---
-title: 'Internet of Things Applied in Healthcare Based on Open Hardware with Low-Energy Consumption'
-date: '2019-09-05'
+title: "Internet of Things Applied in Healthcare Based on Open Hardware with Low-Energy Consumption"
+date: "2019-09-05"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Healthcare Informatics Research']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-09-05
 

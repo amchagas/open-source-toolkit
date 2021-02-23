@@ -1,9 +1,9 @@
 ---
-title: 'Want To Build An Open Source Hardware And Software Robot? '
-date: '2020-02-07'
+title: "Want To Build An Open Source Hardware And Software Robot? "
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Design News']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

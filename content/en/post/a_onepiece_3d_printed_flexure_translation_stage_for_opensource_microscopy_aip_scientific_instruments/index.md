@@ -1,9 +1,9 @@
 ---
-title: 'A one-piece 3D printed flexure translation stage for open-source microscopy'
-date: '2016-02-08'
+title: "A one-piece 3D printed flexure translation stage for open-source microscopy"
+date: "2016-02-08"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'AIP Scientific Instruments']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-02-08
 

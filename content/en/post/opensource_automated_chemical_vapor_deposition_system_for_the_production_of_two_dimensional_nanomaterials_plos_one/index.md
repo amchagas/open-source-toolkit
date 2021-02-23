@@ -1,9 +1,9 @@
 ---
-title: 'Open-source automated chemical vapor deposition system for the production of two- dimensional nanomaterials'
-date: '2019-02-01'
+title: "Open-source automated chemical vapor deposition system for the production of two- dimensional nanomaterials"
+date: "2019-02-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-02-01
 

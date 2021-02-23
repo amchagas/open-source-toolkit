@@ -1,9 +1,9 @@
 ---
-title: 'The WIRED Guide to Open Source Software'
-date: '2019-07-04'
+title: "The WIRED Guide to Open Source Software"
+date: "2019-07-04"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'WIRED']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-07-04
 

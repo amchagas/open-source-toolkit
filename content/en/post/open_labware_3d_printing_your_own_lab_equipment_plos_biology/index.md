@@ -1,9 +1,9 @@
 ---
-title: 'Open Labware: 3-D Printing Your Own Lab Equipment'
-date: '2015-03-20'
+title: "Open Labware: 3-D Printing Your Own Lab Equipment"
+date: "2015-03-20"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-03-20
 

@@ -1,9 +1,9 @@
 ---
-title: 'Assessing local resilience to typhoon disasters: A case study in Nansha, Guangzhou'
-date: '2018-03-09'
+title: "Assessing local resilience to typhoon disasters: A case study in Nansha, Guangzhou"
+date: "2018-03-09"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-09
 

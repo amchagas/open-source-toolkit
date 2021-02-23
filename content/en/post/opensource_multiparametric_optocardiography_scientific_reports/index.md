@@ -1,9 +1,9 @@
 ---
-title: 'Open-Source Multiparametric Optocardiography'
-date: '2019-02-01'
+title: "Open-Source Multiparametric Optocardiography"
+date: "2019-02-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Scientific Reports']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-02-01
 

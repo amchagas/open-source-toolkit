@@ -1,9 +1,9 @@
 ---
-title: 'SweepStat: A Build-It-Yourself, Two-Electrode Potentiostat for Macroelectrode and Ultramicroelectrode Studies'
-date: '2020-02-07'
+title: "SweepStat: A Build-It-Yourself, Two-Electrode Potentiostat for Macroelectrode and Ultramicroelectrode Studies"
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'J. Chem. Educ']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

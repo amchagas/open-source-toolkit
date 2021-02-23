@@ -1,9 +1,9 @@
 ---
-title: 'Cheap DIY GFP (Green Fluorescent Protein) Illuminator'
-date: '2016-03-21'
+title: "Cheap DIY GFP (Green Fluorescent Protein) Illuminator"
+date: "2016-03-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Make']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-21
 

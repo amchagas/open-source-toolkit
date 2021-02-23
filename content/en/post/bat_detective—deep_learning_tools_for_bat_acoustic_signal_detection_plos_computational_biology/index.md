@@ -1,9 +1,9 @@
 ---
-title: 'Bat detective—Deep learning tools for bat acoustic signal detection'
-date: '2018-03-08'
+title: "Bat detective—Deep learning tools for bat acoustic signal detection"
+date: "2018-03-08"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-08
 

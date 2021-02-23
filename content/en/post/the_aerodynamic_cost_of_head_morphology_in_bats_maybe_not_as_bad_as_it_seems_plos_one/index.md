@@ -1,9 +1,9 @@
 ---
-title: 'The Aerodynamic Cost of Head Morphology in Bats: Maybe Not as Bad as It Seems'
-date: '2015-03-04'
+title: "The Aerodynamic Cost of Head Morphology in Bats: Maybe Not as Bad as It Seems"
+date: "2015-03-04"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-03-04
 

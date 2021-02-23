@@ -1,9 +1,9 @@
 ---
-title: 'openmta | BioBricks Foundation'
-date: '2017-12-01'
+title: "openmta | BioBricks Foundation"
+date: "2017-12-01"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'BioBricks Foundation']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-12-01
 

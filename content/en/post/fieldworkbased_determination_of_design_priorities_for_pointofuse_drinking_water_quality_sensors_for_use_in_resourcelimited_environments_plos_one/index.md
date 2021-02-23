@@ -1,9 +1,9 @@
 ---
-title: 'Fieldwork-based determination of design priorities for point-of-use drinking water quality sensors for use in resource-limited environments'
-date: '2020-02-07'
+title: "Fieldwork-based determination of design priorities for point-of-use drinking water quality sensors for use in resource-limited environments"
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

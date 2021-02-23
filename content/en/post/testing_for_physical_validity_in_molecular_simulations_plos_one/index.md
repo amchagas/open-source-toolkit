@@ -1,9 +1,9 @@
 ---
-title: 'Testing for physical validity in molecular simulations'
-date: '2018-09-06'
+title: "Testing for physical validity in molecular simulations"
+date: "2018-09-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-09-06
 

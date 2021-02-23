@@ -1,9 +1,9 @@
 ---
-title: 'PhysiCell: An open source physics-based cell simulator for 3-D multicellular systems'
-date: '2018-04-11'
+title: "PhysiCell: An open source physics-based cell simulator for 3-D multicellular systems"
+date: "2018-04-11"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-04-11
 

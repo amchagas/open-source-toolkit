@@ -1,9 +1,9 @@
 ---
-title: 'Open collaborative writing with Manubot'
-date: '2019-08-16'
+title: "Open collaborative writing with Manubot"
+date: "2019-08-16"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-08-16
 

@@ -1,9 +1,9 @@
 ---
-title: 'Biobeam—Multiplexed wave-optical simulations of light-sheet microscopy'
-date: '2018-04-13'
+title: "Biobeam—Multiplexed wave-optical simulations of light-sheet microscopy"
+date: "2018-04-13"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-04-13
 

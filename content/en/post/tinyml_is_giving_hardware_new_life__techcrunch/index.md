@@ -1,9 +1,9 @@
 ---
-title: 'TinyML is giving hardware new life '
-date: '2020-06-15'
+title: "TinyML is giving hardware new life "
+date: "2020-06-15"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'TechCrunch']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-06-15
 

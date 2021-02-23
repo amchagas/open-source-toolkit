@@ -1,9 +1,9 @@
 ---
-title: 'ProteinVR: Web-based molecular visualization in virtual reality'
-date: '2020-05-12'
+title: "ProteinVR: Web-based molecular visualization in virtual reality"
+date: "2020-05-12"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-05-12
 

@@ -1,9 +1,9 @@
 ---
-title: 'Clinical value of patient-specific three-dimensional printing of congenital heart disease: Quantitative and qualitative assessments'
-date: '2018-03-21'
+title: "Clinical value of patient-specific three-dimensional printing of congenital heart disease: Quantitative and qualitative assessments"
+date: "2018-03-21"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-21
 

@@ -1,9 +1,9 @@
 ---
-title: 'Manufacturers demand open 3D printing ecosystem, study shows'
-date: '2020-02-07'
+title: "Manufacturers demand open 3D printing ecosystem, study shows"
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Product Engineering Solutions']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

@@ -1,9 +1,9 @@
 ---
-title: 'Open-source, community-driven microfluidics with Metafluidics'
-date: '2017-06-07'
+title: "Open-source, community-driven microfluidics with Metafluidics"
+date: "2017-06-07"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'Nature Biotechnology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-06-07
 

@@ -1,9 +1,9 @@
 ---
-title: 'The Turing Way'
-date: '2019-04-11'
+title: "The Turing Way"
+date: "2019-04-11"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'The Turing Way']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-04-11
 

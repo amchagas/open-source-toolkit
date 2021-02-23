@@ -1,9 +1,9 @@
 ---
-title: 'Open Source Seed, a Revolution in Breeding or Yet Another Attack on the Breeder’s Exemption?'
-date: '2019-11-14'
+title: "Open Source Seed, a Revolution in Breeding or Yet Another Attack on the Breeder’s Exemption?"
+date: "2019-11-14"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Frontiers in Plant Science']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-11-14
 

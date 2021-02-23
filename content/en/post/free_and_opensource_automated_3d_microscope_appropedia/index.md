@@ -1,9 +1,9 @@
 ---
-title: 'Free and open-source automated 3-D microscope'
-date: '2017-08-01'
+title: "Free and open-source automated 3-D microscope"
+date: "2017-08-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Appropedia']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-08-01
 

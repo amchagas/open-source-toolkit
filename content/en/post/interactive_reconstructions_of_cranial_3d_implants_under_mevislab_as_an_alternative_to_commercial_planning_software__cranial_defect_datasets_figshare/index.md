@@ -1,9 +1,9 @@
 ---
-title: 'Interactive reconstructions of cranial 3D implants under MeVisLab as an alternative to commercial planning software - Cranial Defect Datasets'
-date: '2017-02-16'
+title: "Interactive reconstructions of cranial 3D implants under MeVisLab as an alternative to commercial planning software - Cranial Defect Datasets"
+date: "2017-02-16"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'figshare']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-02-16
 

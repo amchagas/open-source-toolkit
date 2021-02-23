@@ -1,9 +1,9 @@
 ---
-title: 'Glucose biosensor based on open-source wireless microfluidic potentiostat'
-date: '2019-03-28'
+title: "Glucose biosensor based on open-source wireless microfluidic potentiostat"
+date: "2019-03-28"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Sensors and Actuators B: Chemical']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-03-28
 

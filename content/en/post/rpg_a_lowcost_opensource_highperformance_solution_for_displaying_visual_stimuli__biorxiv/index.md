@@ -1,9 +1,9 @@
 ---
-title: 'RPG: A low-cost, open-source, high-performance solution for displaying visual stimuli '
-date: '2020-04-03'
+title: "RPG: A low-cost, open-source, high-performance solution for displaying visual stimuli "
+date: "2020-04-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-03
 

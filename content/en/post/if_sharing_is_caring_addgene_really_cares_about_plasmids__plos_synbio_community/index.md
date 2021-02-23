@@ -1,9 +1,9 @@
 ---
-title: 'If sharing is caring, Addgene really cares about plasmids. '
-date: '2018-05-05'
+title: "If sharing is caring, Addgene really cares about plasmids. "
+date: "2018-05-05"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'PLOS Synbio Community']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-05-05
 

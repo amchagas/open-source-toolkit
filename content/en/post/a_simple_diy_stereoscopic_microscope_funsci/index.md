@@ -1,9 +1,9 @@
 ---
-title: 'A Simple DIY Stereoscopic Microscope'
-date: '2016-01-01'
+title: "A Simple DIY Stereoscopic Microscope"
+date: "2016-01-01"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'funsci']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-01-01
 

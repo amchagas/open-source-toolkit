@@ -1,9 +1,9 @@
 ---
-title: 'MECs: "Building Blocks" for Creating Biological and Chemical Instruments'
-date: '2016-07-20'
+title: "MECs: Building Blocks for Creating Biological and Chemical Instruments"
+date: "2016-07-20"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-07-20
 

@@ -1,9 +1,9 @@
 ---
-title: 'A Simple, Low-Cost Conductive Composite Material for 3D Printing of Electronic Sensors'
-date: '2012-11-21'
+title: "A Simple, Low-Cost Conductive Composite Material for 3D Printing of Electronic Sensors"
+date: "2012-11-21"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2012-11-21
 

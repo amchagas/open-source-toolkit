@@ -1,10 +1,10 @@
 ---
-title: '3D-printable portable open-source platform for low-cost
-lens-less holographic cellular imaging'
-date: '2019-05-02'
+title: "3D-printable portable open-source platform for low-cost
+lens-less holographic cellular imaging"
+date: "2019-05-02"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'arXiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-05-02
 

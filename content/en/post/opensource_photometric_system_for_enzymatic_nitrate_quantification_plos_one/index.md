@@ -1,9 +1,9 @@
 ---
-title: 'Open-Source Photometric System for Enzymatic Nitrate Quantification'
-date: '2015-08-05'
+title: "Open-Source Photometric System for Enzymatic Nitrate Quantification"
+date: "2015-08-05"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-08-05
 

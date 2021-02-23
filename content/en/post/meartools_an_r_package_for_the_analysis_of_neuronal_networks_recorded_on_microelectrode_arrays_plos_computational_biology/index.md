@@ -1,9 +1,9 @@
 ---
-title: 'meaRtools: An R package for the analysis of neuronal networks recorded on microelectrode arrays'
-date: '2018-10-23'
+title: "meaRtools: An R package for the analysis of neuronal networks recorded on microelectrode arrays"
+date: "2018-10-23"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-10-23
 

@@ -1,9 +1,9 @@
 ---
-title: 'ODX: A Fitness Tracker-Based Device for Continuous Bacterial Growth Monitoring'
-date: '2019-10-17'
+title: "ODX: A Fitness Tracker-Based Device for Continuous Bacterial Growth Monitoring"
+date: "2019-10-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'ACS Publications']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-10-17
 

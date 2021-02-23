@@ -1,9 +1,9 @@
 ---
-title: 'PyLandStats: An open-source Pythonic library to compute landscape metrics'
-date: '2020-01-15'
+title: "PyLandStats: An open-source Pythonic library to compute landscape metrics"
+date: "2020-01-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-15
 

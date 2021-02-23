@@ -1,9 +1,9 @@
 ---
-title: 'A Biotic Game Design Project for Integrated Life Science and Engineering Education'
-date: '2015-03-25'
+title: "A Biotic Game Design Project for Integrated Life Science and Engineering Education"
+date: "2015-03-25"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-03-25
 

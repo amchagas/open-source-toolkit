@@ -1,9 +1,9 @@
 ---
-title: 'MRIQC: Advancing the automatic prediction of image quality in MRI from unseen sites'
-date: '2017-09-25'
+title: "MRIQC: Advancing the automatic prediction of image quality in MRI from unseen sites"
+date: "2017-09-25"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-09-25
 

@@ -1,10 +1,10 @@
 ---
-title: 'An efficient and cost effective FPGA based implementation 
-of the Viola-Jones face detection algorithm'
-date: '2017-03-25'
+title: "An efficient and cost effective FPGA based implementation 
+of the Viola-Jones face detection algorithm"
+date: "2017-03-25"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'HardwareX']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-03-25
 

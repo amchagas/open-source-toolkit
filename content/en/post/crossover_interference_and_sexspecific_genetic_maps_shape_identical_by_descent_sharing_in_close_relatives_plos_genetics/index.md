@@ -1,9 +1,9 @@
 ---
-title: 'Crossover interference and sex-specific genetic maps shape identical by descent sharing in close relatives'
-date: '2020-01-15'
+title: "Crossover interference and sex-specific genetic maps shape identical by descent sharing in close relatives"
+date: "2020-01-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Genetics']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-15
 

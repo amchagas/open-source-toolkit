@@ -1,9 +1,9 @@
 ---
-title: 'Emerging Business Models for Open Source Hardware'
-date: '2017-03-21'
+title: "Emerging Business Models for Open Source Hardware"
+date: "2017-03-21"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'Journal of Open Hardware']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-03-21
 

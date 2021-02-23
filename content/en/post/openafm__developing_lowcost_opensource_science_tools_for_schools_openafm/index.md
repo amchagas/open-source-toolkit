@@ -1,9 +1,9 @@
 ---
-title: 'OpenAFM | Developing low-cost open-source science tools for schools.'
-date: '2016-03-21'
+title: "OpenAFM | Developing low-cost open-source science tools for schools."
+date: "2016-03-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'OpenAFM']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-21
 

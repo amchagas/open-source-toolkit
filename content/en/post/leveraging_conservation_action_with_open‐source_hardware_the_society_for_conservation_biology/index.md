@@ -1,9 +1,9 @@
 ---
-title: 'Leveraging conservation action with open‐source hardware'
-date: '2019-09-05'
+title: "Leveraging conservation action with open‐source hardware"
+date: "2019-09-05"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'The Society for Conservation Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-09-05
 

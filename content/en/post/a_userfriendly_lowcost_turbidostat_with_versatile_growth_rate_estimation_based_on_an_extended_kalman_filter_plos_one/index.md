@@ -1,9 +1,9 @@
 ---
-title: 'A user-friendly, low-cost turbidostat with versatile growth rate estimation based on an extended Kalman filter'
-date: '2017-07-26'
+title: "A user-friendly, low-cost turbidostat with versatile growth rate estimation based on an extended Kalman filter"
+date: "2017-07-26"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-07-26
 

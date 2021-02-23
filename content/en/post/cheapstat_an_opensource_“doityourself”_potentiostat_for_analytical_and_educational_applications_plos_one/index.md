@@ -1,9 +1,9 @@
 ---
-title: 'CheapStat: An Open-Source, “Do-It-Yourself” Potentiostat for Analytical and Educational Applications'
-date: '2011-09-13'
+title: "CheapStat: An Open-Source, “Do-It-Yourself” Potentiostat for Analytical and Educational Applications"
+date: "2011-09-13"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2011-09-13
 

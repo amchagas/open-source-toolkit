@@ -1,9 +1,9 @@
 ---
-title: 'Open-Source 3D-Printable Optics Equipment'
-date: '2013-03-27'
+title: "Open-Source 3D-Printable Optics Equipment"
+date: "2013-03-27"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2013-03-27
 

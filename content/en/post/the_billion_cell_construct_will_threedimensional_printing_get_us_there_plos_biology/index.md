@@ -1,9 +1,9 @@
 ---
-title: 'The Billion Cell Construct: Will Three-Dimensional Printing Get Us There?'
-date: '2014-06-17'
+title: "The Billion Cell Construct: Will Three-Dimensional Printing Get Us There?"
+date: "2014-06-17"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-06-17
 

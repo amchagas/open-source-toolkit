@@ -1,9 +1,9 @@
 ---
-title: 'RMut: R package for a Boolean sensitivity analysis against various types of mutations'
-date: '2019-04-11'
+title: "RMut: R package for a Boolean sensitivity analysis against various types of mutations"
+date: "2019-04-11"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-04-11
 

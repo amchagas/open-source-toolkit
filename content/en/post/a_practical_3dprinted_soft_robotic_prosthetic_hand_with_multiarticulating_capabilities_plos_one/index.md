@@ -1,9 +1,9 @@
 ---
-title: 'A practical 3D-printed soft robotic prosthetic hand with multi-articulating capabilities'
-date: '2020-05-14'
+title: "A practical 3D-printed soft robotic prosthetic hand with multi-articulating capabilities"
+date: "2020-05-14"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-05-14
 

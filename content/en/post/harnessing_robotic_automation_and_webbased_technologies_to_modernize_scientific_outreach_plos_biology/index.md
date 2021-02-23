@@ -1,9 +1,9 @@
 ---
-title: 'Harnessing robotic automation and web-based technologies to modernize scientific outreach'
-date: '2019-07-29'
+title: "Harnessing robotic automation and web-based technologies to modernize scientific outreach"
+date: "2019-07-29"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-07-29
 

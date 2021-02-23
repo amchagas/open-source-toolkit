@@ -1,9 +1,9 @@
 ---
-title: 'Reproducible big data science: A case study in continuous FAIRness'
-date: '2019-05-23'
+title: "Reproducible big data science: A case study in continuous FAIRness"
+date: "2019-05-23"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-05-23
 

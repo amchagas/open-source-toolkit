@@ -1,9 +1,9 @@
 ---
-title: 'Accessible bioprinting: adaptation of a low-cost 3D-printer for precise cell placement and stem cell differentiation'
-date: '2016-06-07'
+title: "Accessible bioprinting: adaptation of a low-cost 3D-printer for precise cell placement and stem cell differentiation"
+date: "2016-06-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'IOPscience']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-06-07
 

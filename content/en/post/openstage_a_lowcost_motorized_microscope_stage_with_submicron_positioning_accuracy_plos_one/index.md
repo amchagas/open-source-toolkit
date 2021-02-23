@@ -1,9 +1,9 @@
 ---
-title: 'Openstage: A Low-Cost Motorized Microscope Stage with Sub-Micron Positioning Accuracy'
-date: '2014-02-26'
+title: "Openstage: A Low-Cost Motorized Microscope Stage with Sub-Micron Positioning Accuracy"
+date: "2014-02-26"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-02-26
 

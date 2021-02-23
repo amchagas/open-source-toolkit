@@ -1,9 +1,9 @@
 ---
-title: 'A High Performance, Cost-Effective, Open-Source Microscope for Scanning Two-Photon Microscopy that Is Modular and Readily Adaptable'
-date: '2014-10-21'
+title: "A High Performance, Cost-Effective, Open-Source Microscope for Scanning Two-Photon Microscopy that Is Modular and Readily Adaptable"
+date: "2014-10-21"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-10-21
 

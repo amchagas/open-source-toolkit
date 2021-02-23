@@ -1,9 +1,9 @@
 ---
-title: 'A network-centric approach for estimating trust between open source software developers'
-date: '2020-01-15'
+title: "A network-centric approach for estimating trust between open source software developers"
+date: "2020-01-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-15
 

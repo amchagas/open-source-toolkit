@@ -1,9 +1,9 @@
 ---
-title: 'LeMaRns: A Length-based Multi-species analysis by numerical simulation in R'
-date: '2020-02-03'
+title: "LeMaRns: A Length-based Multi-species analysis by numerical simulation in R"
+date: "2020-02-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-03
 

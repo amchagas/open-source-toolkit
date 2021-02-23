@@ -1,9 +1,9 @@
 ---
-title: 'Is open sourcing the next frontier in space exploration?'
-date: '2020-06-15'
+title: "Is open sourcing the next frontier in space exploration?"
+date: "2020-06-15"
 authors: ['admin']
 tags:  ['Web Article', 'Related content', 'The Space Review']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-06-15
 

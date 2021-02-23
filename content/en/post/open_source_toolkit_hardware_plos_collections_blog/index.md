@@ -1,9 +1,9 @@
 ---
-title: 'Open Source Toolkit: Hardware'
-date: '2015-10-21'
+title: "Open Source Toolkit: Hardware"
+date: "2015-10-21"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Collections Blog']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-10-21
 

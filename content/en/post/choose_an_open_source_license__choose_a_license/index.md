@@ -1,9 +1,9 @@
 ---
-title: 'Choose an open source license '
-date: '2018-01-01'
+title: "Choose an open source license "
+date: "2018-01-01"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Choose a license']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-01-01
 

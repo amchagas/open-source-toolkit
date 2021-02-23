@@ -1,9 +1,9 @@
 ---
-title: 'Orbit Image Analysis: An open-source whole slide image analysis tool'
-date: '2020-02-05'
+title: "Orbit Image Analysis: An open-source whole slide image analysis tool"
+date: "2020-02-05"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-05
 

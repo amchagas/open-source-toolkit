@@ -1,9 +1,9 @@
 ---
-title: 'An open source, wireless capable miniature microscope system'
-date: '2017-05-17'
+title: "An open source, wireless capable miniature microscope system"
+date: "2017-05-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Journal of Neural Engineering']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-05-17
 

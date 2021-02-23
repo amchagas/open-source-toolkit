@@ -1,9 +1,9 @@
 ---
-title: '3D mesh processing using GAMer 2 to enable reaction-diffusion simulations in realistic cellular geometries'
-date: '2020-04-06'
+title: "3D mesh processing using GAMer 2 to enable reaction-diffusion simulations in realistic cellular geometries"
+date: "2020-04-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-06
 

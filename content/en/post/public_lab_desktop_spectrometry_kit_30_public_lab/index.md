@@ -1,9 +1,9 @@
 ---
-title: 'Public Lab: Desktop Spectrometry Kit 3.0'
-date: '2016-03-21'
+title: "Public Lab: Desktop Spectrometry Kit 3.0"
+date: "2016-03-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Public Lab']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-21
 

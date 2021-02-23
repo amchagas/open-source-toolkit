@@ -1,9 +1,9 @@
 ---
-title: 'OS CT Scanner'
-date: '2015-10-06'
+title: "OS CT Scanner"
+date: "2015-10-06"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Tricorder project']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-10-06
 

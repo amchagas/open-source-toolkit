@@ -1,9 +1,9 @@
 ---
-title: 'The quest for open science'
-date: '2017-11-25'
+title: "The quest for open science"
+date: "2017-11-25"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'TechRadar']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-11-25
 

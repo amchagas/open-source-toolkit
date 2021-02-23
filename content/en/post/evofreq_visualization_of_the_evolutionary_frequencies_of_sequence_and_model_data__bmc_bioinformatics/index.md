@@ -1,9 +1,9 @@
 ---
-title: 'EvoFreq: visualization of the Evolutionary Frequencies of sequence and model data '
-date: '2020-01-15'
+title: "EvoFreq: visualization of the Evolutionary Frequencies of sequence and model data "
+date: "2020-01-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'BMC Bioinformatics']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-15
 

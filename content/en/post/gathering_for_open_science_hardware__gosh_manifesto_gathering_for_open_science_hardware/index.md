@@ -1,9 +1,9 @@
 ---
-title: 'Gathering for Open Science Hardware - GOSH Manifesto'
-date: '2016-07-25'
+title: "Gathering for Open Science Hardware - GOSH Manifesto"
+date: "2016-07-25"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Gathering for Open Science Hardware']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-07-25
 

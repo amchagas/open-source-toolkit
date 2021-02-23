@@ -1,9 +1,9 @@
 ---
-title: 'Accelerating science and improving equitable access to hands-on STEM education through open science hardware | Gathering for Open Science Hardware'
-date: '2017-12-05'
+title: "Accelerating science and improving equitable access to hands-on STEM education through open science hardware | Gathering for Open Science Hardware"
+date: "2017-12-05"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'GOSH News']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-12-05
 

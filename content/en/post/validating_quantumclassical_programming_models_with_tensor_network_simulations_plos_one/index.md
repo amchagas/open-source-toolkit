@@ -1,9 +1,9 @@
 ---
-title: 'Validating quantum-classical programming models with tensor network simulations'
-date: '2019-01-17'
+title: "Validating quantum-classical programming models with tensor network simulations"
+date: "2019-01-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-01-17
 

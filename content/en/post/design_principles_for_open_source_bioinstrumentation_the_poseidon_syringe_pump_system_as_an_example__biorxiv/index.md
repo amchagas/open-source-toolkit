@@ -1,9 +1,9 @@
 ---
-title: 'Design principles for open source bioinstrumentation: the poseidon syringe pump system as an example '
-date: '2019-02-01'
+title: "Design principles for open source bioinstrumentation: the poseidon syringe pump system as an example "
+date: "2019-02-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-02-01
 

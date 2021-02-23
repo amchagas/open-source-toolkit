@@ -1,9 +1,9 @@
 ---
-title: ' Deploying Acoustic Detection Algorithms on Low-Cost, Open-Source Acoustic Sensors for Environmental Monitoring '
-date: '2019-03-28'
+title: " Deploying Acoustic Detection Algorithms on Low-Cost, Open-Source Acoustic Sensors for Environmental Monitoring "
+date: "2019-03-28"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Sensors']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-03-28
 

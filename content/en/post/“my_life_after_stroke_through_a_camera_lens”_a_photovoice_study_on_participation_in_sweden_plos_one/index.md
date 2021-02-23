@@ -1,9 +1,9 @@
 ---
-title: '“My life after stroke through a camera lens”- A photovoice study on participation in Sweden'
-date: '2019-10-17'
+title: "“My life after stroke through a camera lens”- A photovoice study on participation in Sweden"
+date: "2019-10-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-10-17
 

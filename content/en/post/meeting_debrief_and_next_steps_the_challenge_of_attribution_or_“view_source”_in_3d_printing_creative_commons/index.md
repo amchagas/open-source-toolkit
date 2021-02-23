@@ -1,9 +1,9 @@
 ---
-title: 'Meeting debrief and next steps: The Challenge of Attribution, or “View Source,” in 3D Printing'
-date: '2016-07-15'
+title: "Meeting debrief and next steps: The Challenge of Attribution, or “View Source,” in 3D Printing"
+date: "2016-07-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Creative Commons']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-07-15
 

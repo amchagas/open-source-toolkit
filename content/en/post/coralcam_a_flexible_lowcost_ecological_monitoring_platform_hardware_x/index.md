@@ -1,9 +1,9 @@
 ---
-title: 'CoralCam: A flexible, low-cost ecological monitoring platform'
-date: '2020-02-07'
+title: "CoralCam: A flexible, low-cost ecological monitoring platform"
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Hardware X']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

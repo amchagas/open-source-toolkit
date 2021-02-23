@@ -1,9 +1,9 @@
 ---
-title: 'Open-source Wax RepRap 3-D Printer for Rapid Prototyping Paper-Based Microfluidics'
-date: '2017-08-01'
+title: "Open-source Wax RepRap 3-D Printer for Rapid Prototyping Paper-Based Microfluidics"
+date: "2017-08-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Appropedia']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-08-01
 

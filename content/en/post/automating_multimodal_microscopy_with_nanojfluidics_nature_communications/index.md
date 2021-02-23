@@ -1,9 +1,9 @@
 ---
-title: 'Automating multimodal microscopy with NanoJ-Fluidics'
-date: '2019-05-02'
+title: "Automating multimodal microscopy with NanoJ-Fluidics"
+date: "2019-05-02"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Nature Communications']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-05-02
 

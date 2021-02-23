@@ -1,9 +1,9 @@
 ---
-title: 'A versatile and low-cost open source pipetting robot for automation of toxicological and ecotoxicological bioassays'
-date: '2017-06-16'
+title: "A versatile and low-cost open source pipetting robot for automation of toxicological and ecotoxicological bioassays"
+date: "2017-06-16"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-06-16
 

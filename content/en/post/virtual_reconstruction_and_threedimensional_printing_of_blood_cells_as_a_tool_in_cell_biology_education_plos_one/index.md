@@ -1,9 +1,9 @@
 ---
-title: 'Virtual Reconstruction and Three-Dimensional Printing of Blood Cells as a Tool in Cell Biology Education'
-date: '2016-08-15'
+title: "Virtual Reconstruction and Three-Dimensional Printing of Blood Cells as a Tool in Cell Biology Education"
+date: "2016-08-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-08-15
 

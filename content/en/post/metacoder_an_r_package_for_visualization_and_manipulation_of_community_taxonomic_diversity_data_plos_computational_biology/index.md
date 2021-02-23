@@ -1,9 +1,9 @@
 ---
-title: 'Metacoder: An R package for visualization and manipulation of community taxonomic diversity data'
-date: '2017-02-21'
+title: "Metacoder: An R package for visualization and manipulation of community taxonomic diversity data"
+date: "2017-02-21"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-02-21
 

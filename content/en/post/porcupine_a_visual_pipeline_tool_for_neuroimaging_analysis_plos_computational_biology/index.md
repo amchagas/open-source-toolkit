@@ -1,9 +1,9 @@
 ---
-title: 'Porcupine: A visual pipeline tool for neuroimaging analysis'
-date: '2018-05-10'
+title: "Porcupine: A visual pipeline tool for neuroimaging analysis"
+date: "2018-05-10"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-05-10
 

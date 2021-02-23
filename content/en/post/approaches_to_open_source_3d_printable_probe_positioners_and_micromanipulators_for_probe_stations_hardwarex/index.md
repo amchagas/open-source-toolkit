@@ -1,9 +1,9 @@
 ---
-title: 'Approaches to Open Source 3-D Printable Probe Positioners and Micromanipulators for Probe Stations'
-date: '2018-10-01'
+title: "Approaches to Open Source 3-D Printable Probe Positioners and Micromanipulators for Probe Stations"
+date: "2018-10-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'HardwareX']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-10-01
 

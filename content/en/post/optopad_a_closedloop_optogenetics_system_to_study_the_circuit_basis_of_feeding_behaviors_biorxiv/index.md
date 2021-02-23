@@ -1,9 +1,9 @@
 ---
-title: 'optoPAD: a closed-loop optogenetics system to study the circuit basis of feeding behaviors'
-date: '2019-02-01'
+title: "optoPAD: a closed-loop optogenetics system to study the circuit basis of feeding behaviors"
+date: "2019-02-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-02-01
 

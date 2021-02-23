@@ -1,9 +1,9 @@
 ---
-title: 'African scientists leverage open hardware'
-date: '2020-06-15'
+title: "African scientists leverage open hardware"
+date: "2020-06-15"
 authors: ['admin']
 tags:  ['Web Article', 'Related content', 'Nature']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-06-15
 

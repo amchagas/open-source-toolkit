@@ -1,9 +1,9 @@
 ---
-title: 'Low cost and open source multi-fluorescence imaging system for teaching and research in biology and bioengineering'
-date: '2017-11-15'
+title: "Low cost and open source multi-fluorescence imaging system for teaching and research in biology and bioengineering"
+date: "2017-11-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-11-15
 

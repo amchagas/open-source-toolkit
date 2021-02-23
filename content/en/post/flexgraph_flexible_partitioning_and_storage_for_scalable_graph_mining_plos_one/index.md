@@ -1,9 +1,9 @@
 ---
-title: 'FlexGraph: Flexible partitioning and storage for scalable graph mining'
-date: '2020-01-24'
+title: "FlexGraph: Flexible partitioning and storage for scalable graph mining"
+date: "2020-01-24"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-24
 

@@ -1,9 +1,9 @@
 ---
-title: 'Open-source five degree of freedom motion platform for investigating fish-robot interaction'
-date: '2020-04-03'
+title: "Open-source five degree of freedom motion platform for investigating fish-robot interaction"
+date: "2020-04-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Hardware X']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-03
 

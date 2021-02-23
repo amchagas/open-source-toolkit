@@ -1,9 +1,9 @@
 ---
-title: 'The Accuracy of a Method for Printing Three-Dimensional Spinal Models'
-date: '2015-04-27'
+title: "The Accuracy of a Method for Printing Three-Dimensional Spinal Models"
+date: "2015-04-27"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-04-27
 

@@ -1,9 +1,9 @@
 ---
-title: ' Development of a low-cost, user-customizable, high-speed camera'
-date: '2020-06-15'
+title: " Development of a low-cost, user-customizable, high-speed camera"
+date: "2020-06-15"
 authors: ['admin']
 tags:  ['Research Article', 'Featured research', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-06-15
 

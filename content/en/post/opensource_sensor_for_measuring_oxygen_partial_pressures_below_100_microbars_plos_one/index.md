@@ -1,9 +1,9 @@
 ---
-title: 'Open-source sensor for measuring oxygen partial pressures below 100 microbars'
-date: '2018-12-20'
+title: "Open-source sensor for measuring oxygen partial pressures below 100 microbars"
+date: "2018-12-20"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-12-20
 

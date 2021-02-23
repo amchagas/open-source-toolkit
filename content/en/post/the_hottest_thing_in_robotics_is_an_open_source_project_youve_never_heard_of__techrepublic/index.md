@@ -1,9 +1,9 @@
 ---
-title: 'The hottest thing in robotics is an open source project you've never heard of '
-date: '2020-02-07'
+title: "The hottest thing in robotics is an open source project you've never heard of "
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'TechRepublic']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

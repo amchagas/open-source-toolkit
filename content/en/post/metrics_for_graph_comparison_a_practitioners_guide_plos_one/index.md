@@ -1,9 +1,9 @@
 ---
-title: 'Metrics for graph comparison: A practitioner’s guide'
-date: '2020-03-03'
+title: "Metrics for graph comparison: A practitioner’s guide"
+date: "2020-03-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-03-03
 

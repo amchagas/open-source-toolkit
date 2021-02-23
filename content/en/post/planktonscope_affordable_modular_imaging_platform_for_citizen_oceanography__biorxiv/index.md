@@ -1,9 +1,9 @@
 ---
-title: 'PlanktonScope: Affordable modular imaging platform for citizen oceanography '
-date: '2020-06-15'
+title: "PlanktonScope: Affordable modular imaging platform for citizen oceanography "
+date: "2020-06-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-06-15
 

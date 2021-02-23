@@ -1,9 +1,9 @@
 ---
-title: 'Peek Hardware – Vision and Health for Everyone'
-date: '2016-12-05'
+title: "Peek Hardware – Vision and Health for Everyone"
+date: "2016-12-05"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Peek']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-12-05
 

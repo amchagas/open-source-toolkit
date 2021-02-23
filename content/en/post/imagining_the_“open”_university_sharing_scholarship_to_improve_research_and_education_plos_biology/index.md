@@ -1,9 +1,9 @@
 ---
-title: 'Imagining the “open” university: Sharing scholarship to improve research and education'
-date: '2017-10-24'
+title: "Imagining the “open” university: Sharing scholarship to improve research and education"
+date: "2017-10-24"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-10-24
 

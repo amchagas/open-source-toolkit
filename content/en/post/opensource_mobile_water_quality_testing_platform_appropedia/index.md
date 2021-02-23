@@ -1,9 +1,9 @@
 ---
-title: 'Open-source mobile water quality testing platform'
-date: '2017-08-01'
+title: "Open-source mobile water quality testing platform"
+date: "2017-08-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Appropedia']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-08-01
 

@@ -1,9 +1,9 @@
 ---
-title: 'Viridot: An automated virus plaque (immunofocus) counter for the measurement of serological neutralizing responses with application to dengue virus'
-date: '2018-12-10'
+title: "Viridot: An automated virus plaque (immunofocus) counter for the measurement of serological neutralizing responses with application to dengue virus"
+date: "2018-12-10"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS NEGLECTED TROPICAL DISEASES']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-12-10
 

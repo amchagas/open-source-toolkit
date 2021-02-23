@@ -1,9 +1,9 @@
 ---
-title: 'A low-cost fluorescence reader for in vitro transcription and nucleic acid detection with Cas13a'
-date: '2020-02-07'
+title: "A low-cost fluorescence reader for in vitro transcription and nucleic acid detection with Cas13a"
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

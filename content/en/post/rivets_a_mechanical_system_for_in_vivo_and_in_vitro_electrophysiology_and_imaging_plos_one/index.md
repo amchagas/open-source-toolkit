@@ -1,9 +1,9 @@
 ---
-title: 'RIVETS: A Mechanical System for In Vivo and In Vitro Electrophysiology and Imaging'
-date: '2014-02-14'
+title: "RIVETS: A Mechanical System for In Vivo and In Vitro Electrophysiology and Imaging"
+date: "2014-02-14"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-02-14
 

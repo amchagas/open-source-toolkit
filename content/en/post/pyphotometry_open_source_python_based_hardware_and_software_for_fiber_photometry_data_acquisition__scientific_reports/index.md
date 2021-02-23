@@ -1,9 +1,9 @@
 ---
-title: 'pyPhotometry: Open source Python based hardware and software for fiber photometry data acquisition '
-date: '2019-03-28'
+title: "pyPhotometry: Open source Python based hardware and software for fiber photometry data acquisition "
+date: "2019-03-28"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Scientific Reports']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-03-28
 

@@ -1,9 +1,9 @@
 ---
-title: 'DropletKitchen Projects'
-date: '2016-12-05'
+title: "DropletKitchen Projects"
+date: "2016-12-05"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'DropletKitchen']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-12-05
 

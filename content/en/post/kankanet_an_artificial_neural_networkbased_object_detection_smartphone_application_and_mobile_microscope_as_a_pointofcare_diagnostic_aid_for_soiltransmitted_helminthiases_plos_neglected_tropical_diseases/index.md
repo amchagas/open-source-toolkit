@@ -1,9 +1,9 @@
 ---
-title: 'Kankanet: An artificial neural network-based object detection smartphone application and mobile microscope as a point-of-care diagnostic aid for soil-transmitted helminthiases'
-date: '2019-08-05'
+title: "Kankanet: An artificial neural network-based object detection smartphone application and mobile microscope as a point-of-care diagnostic aid for soil-transmitted helminthiases"
+date: "2019-08-05"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Neglected Tropical Diseases']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-08-05
 

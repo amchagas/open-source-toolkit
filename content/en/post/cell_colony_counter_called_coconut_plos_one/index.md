@@ -1,9 +1,9 @@
 ---
-title: 'Cell colony counter called CoCoNut'
-date: '2018-12-20'
+title: "Cell colony counter called CoCoNut"
+date: "2018-12-20"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-12-20
 

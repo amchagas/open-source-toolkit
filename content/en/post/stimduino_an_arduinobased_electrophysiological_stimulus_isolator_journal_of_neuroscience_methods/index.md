@@ -1,9 +1,9 @@
 ---
-title: 'StimDuino: An Arduino-based electrophysiological stimulus isolator'
-date: '2018-03-01'
+title: "StimDuino: An Arduino-based electrophysiological stimulus isolator"
+date: "2018-03-01"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Journal of Neuroscience Methods']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-01
 

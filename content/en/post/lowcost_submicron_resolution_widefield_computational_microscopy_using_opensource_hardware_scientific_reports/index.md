@@ -1,9 +1,9 @@
 ---
-title: 'Low-cost, sub-micron resolution, wide-field computational microscopy using opensource hardware'
-date: '2019-06-17'
+title: "Low-cost, sub-micron resolution, wide-field computational microscopy using opensource hardware"
+date: "2019-06-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Scientific Reports']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-06-17
 

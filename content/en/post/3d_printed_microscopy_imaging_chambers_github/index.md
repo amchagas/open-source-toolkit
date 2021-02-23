@@ -1,9 +1,9 @@
 ---
-title: '3D printed microscopy imaging chambers'
-date: '2016-04-01'
+title: "3D printed microscopy imaging chambers"
+date: "2016-04-01"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Github']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-04-01
 

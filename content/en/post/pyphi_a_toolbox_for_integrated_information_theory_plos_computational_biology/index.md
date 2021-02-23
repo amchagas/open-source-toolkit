@@ -1,9 +1,9 @@
 ---
-title: 'PyPhi: A toolbox for integrated information theory'
-date: '2018-07-26'
+title: "PyPhi: A toolbox for integrated information theory"
+date: "2018-07-26"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-07-26
 

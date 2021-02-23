@@ -1,9 +1,9 @@
 ---
-title: 'Design and validation of an open-source modular Microplate Photoirradiation System for high-throughput photobiology experiments'
-date: '2018-11-19'
+title: "Design and validation of an open-source modular Microplate Photoirradiation System for high-throughput photobiology experiments"
+date: "2018-11-19"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-11-19
 

@@ -1,9 +1,9 @@
 ---
-title: 'An open source pharma roadmap'
-date: '2017-04-18'
+title: "An open source pharma roadmap"
+date: "2017-04-18"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Medicine']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-04-18
 

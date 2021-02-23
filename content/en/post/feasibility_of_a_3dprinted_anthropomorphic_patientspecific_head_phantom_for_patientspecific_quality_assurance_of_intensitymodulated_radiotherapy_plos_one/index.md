@@ -1,9 +1,9 @@
 ---
-title: 'Feasibility of a 3D-printed anthropomorphic patient-specific head phantom for patient-specific quality assurance of intensity-modulated radiotherapy'
-date: '2017-07-20'
+title: "Feasibility of a 3D-printed anthropomorphic patient-specific head phantom for patient-specific quality assurance of intensity-modulated radiotherapy"
+date: "2017-07-20"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-07-20
 

@@ -1,9 +1,9 @@
 ---
-title: 'Context-explorer: Analysis of spatially organized protein expression in high-throughput screens'
-date: '2019-01-17'
+title: "Context-explorer: Analysis of spatially organized protein expression in high-throughput screens"
+date: "2019-01-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-01-17
 

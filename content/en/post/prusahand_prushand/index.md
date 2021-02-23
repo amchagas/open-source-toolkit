@@ -1,9 +1,9 @@
 ---
-title: 'PrusaHand'
-date: '2016-01-01'
+title: "PrusaHand"
+date: "2016-01-01"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'PrusHand']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-01-01
 

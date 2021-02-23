@@ -1,9 +1,9 @@
 ---
-title: 'Home-Built STM'
-date: '2016-03-21'
+title: "Home-Built STM"
+date: "2016-03-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Dan Berard']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-21
 

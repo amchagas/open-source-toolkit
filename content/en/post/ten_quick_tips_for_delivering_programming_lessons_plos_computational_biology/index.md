@@ -1,9 +1,9 @@
 ---
-title: 'Ten quick tips for delivering programming lessons'
-date: '2020-01-15'
+title: "Ten quick tips for delivering programming lessons"
+date: "2020-01-15"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-15
 

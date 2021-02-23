@@ -1,9 +1,9 @@
 ---
-title: 'Open Source Brain: A Collaborative Resource for Visualizing, Analyzing, Simulating, and Developing Standardized Models of Neurons and Circuits'
-date: '2019-09-26'
+title: "Open Source Brain: A Collaborative Resource for Visualizing, Analyzing, Simulating, and Developing Standardized Models of Neurons and Circuits"
+date: "2019-09-26"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Neuron']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-09-26
 

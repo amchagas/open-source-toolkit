@@ -1,9 +1,9 @@
 ---
-title: 'Rodent Activity Detector (RAD), an Open Source Device for Measuring Activity in Rodent Home Cages'
-date: '2019-07-29'
+title: "Rodent Activity Detector (RAD), an Open Source Device for Measuring Activity in Rodent Home Cages"
+date: "2019-07-29"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'eNeuro']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-07-29
 

@@ -1,9 +1,9 @@
 ---
-title: 'Closed-Loop, Multichannel Experimentation Using the Open-Source NeuroRighter Electrophysiology Platform | Frontiers in Neural Circuits'
-date: '2013-01-18'
+title: "Closed-Loop, Multichannel Experimentation Using the Open-Source NeuroRighter Electrophysiology Platform | Frontiers in Neural Circuits"
+date: "2013-01-18"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Frontiers in Neural Circuits']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2013-01-18
 

@@ -1,9 +1,9 @@
 ---
-title: 'Open-Source Colorimeter'
-date: '2013-04-19'
+title: "Open-Source Colorimeter"
+date: "2013-04-19"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Sensors']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2013-04-19
 

@@ -1,9 +1,9 @@
 ---
-title: 'CellProfiler 3.0: Next-generation image processing for biology'
-date: '2018-07-03'
+title: "CellProfiler 3.0: Next-generation image processing for biology"
+date: "2018-07-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-07-03
 

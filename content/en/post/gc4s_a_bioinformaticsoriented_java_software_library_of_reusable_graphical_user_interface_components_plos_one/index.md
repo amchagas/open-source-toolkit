@@ -1,9 +1,9 @@
 ---
-title: 'GC4S: A bioinformatics-oriented Java software library of reusable graphical user interface components'
-date: '2018-10-23'
+title: "GC4S: A bioinformatics-oriented Java software library of reusable graphical user interface components"
+date: "2018-10-23"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-10-23
 

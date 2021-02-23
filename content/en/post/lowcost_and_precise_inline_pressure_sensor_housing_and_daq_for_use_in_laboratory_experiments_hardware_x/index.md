@@ -1,9 +1,9 @@
 ---
-title: 'Low-cost and precise inline pressure sensor housing and DAQ for use in laboratory experiments'
-date: '2020-06-15'
+title: "Low-cost and precise inline pressure sensor housing and DAQ for use in laboratory experiments"
+date: "2020-06-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Hardware X']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-06-15
 

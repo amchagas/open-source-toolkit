@@ -1,9 +1,9 @@
 ---
-title: 'OSS-DBS: Open-source simulation platform for deep brain stimulation with a comprehensive automated modeling'
-date: '2020-08-18'
+title: "OSS-DBS: Open-source simulation platform for deep brain stimulation with a comprehensive automated modeling"
+date: "2020-08-18"
 authors: ['admin']
 tags:  ['Research Article', 'Featured research', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-08-18
 

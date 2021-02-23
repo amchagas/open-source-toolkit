@@ -1,9 +1,9 @@
 ---
-title: 'NUFEB: A massively parallel simulator for individual-based modelling of microbial communities'
-date: '2020-01-15'
+title: "NUFEB: A massively parallel simulator for individual-based modelling of microbial communities"
+date: "2020-01-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-01-15
 

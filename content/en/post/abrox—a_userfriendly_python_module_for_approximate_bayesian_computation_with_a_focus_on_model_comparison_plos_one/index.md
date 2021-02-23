@@ -1,9 +1,9 @@
 ---
-title: 'ABrox—A user-friendly Python module for approximate Bayesian computation with a focus on model comparison'
-date: '2018-03-08'
+title: "ABrox—A user-friendly Python module for approximate Bayesian computation with a focus on model comparison"
+date: "2018-03-08"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-08
 

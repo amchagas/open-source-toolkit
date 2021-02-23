@@ -1,9 +1,9 @@
 ---
-title: 'Loop Assembly: a simple and open system for recursive fabrication of DNA circuits'
-date: '2018-01-18'
+title: "Loop Assembly: a simple and open system for recursive fabrication of DNA circuits"
+date: "2018-01-18"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-01-18
 

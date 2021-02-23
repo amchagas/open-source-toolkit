@@ -1,9 +1,9 @@
 ---
-title: 'A low-cost do-it-yourself microscope kit for hands-on science education'
-date: '2018-10-01'
+title: "A low-cost do-it-yourself microscope kit for hands-on science education"
+date: "2018-10-01"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'SPIE Digital Library']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-10-01
 

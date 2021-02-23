@@ -1,9 +1,9 @@
 ---
-title: 'The Code and Data Citation Counter'
-date: '2018-03-01'
+title: "The Code and Data Citation Counter"
+date: "2018-03-01"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'github.com']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-01
 

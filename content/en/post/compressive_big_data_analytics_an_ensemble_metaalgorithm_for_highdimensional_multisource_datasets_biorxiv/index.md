@@ -1,9 +1,9 @@
 ---
-title: 'Compressive Big Data Analytics: An Ensemble Meta-Algorithm for High-dimensional Multisource Datasets'
-date: '2020-03-03'
+title: "Compressive Big Data Analytics: An Ensemble Meta-Algorithm for High-dimensional Multisource Datasets"
+date: "2020-03-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'bioRxiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-03-03
 

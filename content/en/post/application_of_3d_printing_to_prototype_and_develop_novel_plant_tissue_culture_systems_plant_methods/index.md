@@ -1,9 +1,9 @@
 ---
-title: 'Application of 3D printing to prototype and develop novel plant tissue culture systems'
-date: '2017-01-19'
+title: "Application of 3D printing to prototype and develop novel plant tissue culture systems"
+date: "2017-01-19"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Plant Methods']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-01-19
 

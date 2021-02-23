@@ -1,9 +1,9 @@
 ---
-title: 'microUSV: A low-cost platform for indoor marine swarm robotics research'
-date: '2020-04-03'
+title: "microUSV: A low-cost platform for indoor marine swarm robotics research"
+date: "2020-04-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Hardware X ']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-03
 

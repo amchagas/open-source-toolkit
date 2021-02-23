@@ -1,9 +1,9 @@
 ---
-title: 'HAMAP as SPARQL rules—A portable annotation pipeline for genomes and proteomes '
-date: '2020-03-03'
+title: "HAMAP as SPARQL rules—A portable annotation pipeline for genomes and proteomes "
+date: "2020-03-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'GigaScience']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-03-03
 

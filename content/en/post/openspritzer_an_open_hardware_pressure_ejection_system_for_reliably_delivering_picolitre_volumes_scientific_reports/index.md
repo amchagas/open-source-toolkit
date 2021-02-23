@@ -1,9 +1,9 @@
 ---
-title: 'Openspritzer: an open hardware pressure ejection system for reliably delivering picolitre volumes'
-date: '2017-05-19'
+title: "Openspritzer: an open hardware pressure ejection system for reliably delivering picolitre volumes"
+date: "2017-05-19"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Scientific Reports']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-05-19
 

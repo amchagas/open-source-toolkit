@@ -1,9 +1,9 @@
 ---
-title: 'Digital open science—Teaching digital tools for reproducible and transparent research'
-date: '2018-07-26'
+title: "Digital open science—Teaching digital tools for reproducible and transparent research"
+date: "2018-07-26"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-07-26
 

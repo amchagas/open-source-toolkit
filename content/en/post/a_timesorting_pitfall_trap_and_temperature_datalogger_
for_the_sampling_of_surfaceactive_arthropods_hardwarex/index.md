@@ -1,10 +1,10 @@
 ---
-title: 'A time-sorting pitfall trap and temperature datalogger 
-for the sampling of surface-active arthropods'
-date: '2017-02-16'
+title: "A time-sorting pitfall trap and temperature datalogger 
+for the sampling of surface-active arthropods"
+date: "2017-02-16"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'HardwareX']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-02-16
 

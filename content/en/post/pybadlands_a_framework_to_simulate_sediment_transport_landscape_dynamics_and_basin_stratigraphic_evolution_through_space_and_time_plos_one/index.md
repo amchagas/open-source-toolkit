@@ -1,9 +1,9 @@
 ---
-title: 'pyBadlands: A framework to simulate sediment transport, landscape dynamics and basin stratigraphic evolution through space and time'
-date: '2018-04-12'
+title: "pyBadlands: A framework to simulate sediment transport, landscape dynamics and basin stratigraphic evolution through space and time"
+date: "2018-04-12"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-04-12
 

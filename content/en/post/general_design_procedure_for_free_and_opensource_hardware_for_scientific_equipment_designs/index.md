@@ -1,9 +1,9 @@
 ---
-title: 'General design procedure for free and open-source hardware for scientific equipment'
-date: '2017-12-30'
+title: "General design procedure for free and open-source hardware for scientific equipment"
+date: "2017-12-30"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'Designs']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-12-30
 

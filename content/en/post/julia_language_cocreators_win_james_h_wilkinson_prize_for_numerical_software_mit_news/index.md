@@ -1,9 +1,9 @@
 ---
-title: 'Julia language co-creators win James H. Wilkinson Prize for Numerical Software'
-date: '2019-01-17'
+title: "Julia language co-creators win James H. Wilkinson Prize for Numerical Software"
+date: "2019-01-17"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'MIT News']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-01-17
 

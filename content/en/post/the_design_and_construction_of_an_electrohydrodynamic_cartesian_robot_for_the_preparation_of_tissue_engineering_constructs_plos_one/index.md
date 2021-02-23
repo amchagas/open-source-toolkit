@@ -1,9 +1,9 @@
 ---
-title: 'The Design and Construction of an Electrohydrodynamic Cartesian Robot for the Preparation of Tissue Engineering Constructs'
-date: '2014-11-18'
+title: "The Design and Construction of an Electrohydrodynamic Cartesian Robot for the Preparation of Tissue Engineering Constructs"
+date: "2014-11-18"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-11-18
 

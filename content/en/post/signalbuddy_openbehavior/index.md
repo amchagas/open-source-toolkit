@@ -1,9 +1,9 @@
 ---
-title: 'SignalBuddy'
-date: '2019-10-17'
+title: "SignalBuddy"
+date: "2019-10-17"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'OpenBehavior']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-10-17
 

@@ -1,9 +1,9 @@
 ---
-title: 'Incu-Stream 1.0: An Open-Hardware Live-Cell Imaging System Based on Inverted Bright-Field Microscopy and Automated Mechanical Scanning for Real-Time and Long-Term Imaging of Microplates in Incubator'
-date: '2019-06-17'
+title: "Incu-Stream 1.0: An Open-Hardware Live-Cell Imaging System Based on Inverted Bright-Field Microscopy and Automated Mechanical Scanning for Real-Time and Long-Term Imaging of Microplates in Incubator"
+date: "2019-06-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'IEEE Access']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-06-17
 

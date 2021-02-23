@@ -1,9 +1,9 @@
 ---
-title: 'Open Source Hardware Risks'
-date: '2020-02-07'
+title: "Open Source Hardware Risks"
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Semiconductor Engineering']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

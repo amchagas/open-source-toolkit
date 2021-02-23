@@ -1,9 +1,9 @@
 ---
-title: 'Platform Jack  [Fully Assembled, No Supports]'
-date: '2016-03-17'
+title: "Platform Jack  [Fully Assembled, No Supports]"
+date: "2016-03-17"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Thingiverse']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-17
 

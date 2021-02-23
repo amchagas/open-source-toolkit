@@ -1,9 +1,9 @@
 ---
-title: 'An empirical analysis of journal policy effectiveness for computational reproducibility'
-date: '2018-03-13'
+title: "An empirical analysis of journal policy effectiveness for computational reproducibility"
+date: "2018-03-13"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PNAS']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-13
 

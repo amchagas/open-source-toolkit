@@ -1,9 +1,9 @@
 ---
-title: 'A 3D-printed hand-powered centrifuge for molecular biology'
-date: '2019-06-17'
+title: "A 3D-printed hand-powered centrifuge for molecular biology"
+date: "2019-06-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-06-17
 

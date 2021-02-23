@@ -1,9 +1,9 @@
 ---
-title: 'Open source capillary electrophoresis'
-date: '2018-10-01'
+title: "Open source capillary electrophoresis"
+date: "2018-10-01"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Electrophoresis']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-10-01
 

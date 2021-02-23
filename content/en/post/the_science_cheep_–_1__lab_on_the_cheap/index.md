@@ -1,9 +1,9 @@
 ---
-title: 'The Science Cheep – #1 '
-date: '2020-06-15'
+title: "The Science Cheep – #1 "
+date: "2020-06-15"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Lab On The Cheap']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-06-15
 

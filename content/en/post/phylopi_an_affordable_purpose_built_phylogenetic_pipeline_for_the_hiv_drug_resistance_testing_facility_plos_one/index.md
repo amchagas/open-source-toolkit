@@ -1,9 +1,9 @@
 ---
-title: 'PhyloPi: An affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility'
-date: '2019-03-05'
+title: "PhyloPi: An affordable, purpose built phylogenetic pipeline for the HIV drug resistance testing facility"
+date: "2019-03-05"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-03-05
 

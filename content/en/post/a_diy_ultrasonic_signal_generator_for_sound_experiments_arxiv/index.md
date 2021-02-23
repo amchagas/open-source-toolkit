@@ -1,9 +1,9 @@
 ---
-title: 'A DIY Ultrasonic Signal Generator for Sound Experiments'
-date: '2016-10-04'
+title: "A DIY Ultrasonic Signal Generator for Sound Experiments"
+date: "2016-10-04"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'arXiv']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-10-04
 

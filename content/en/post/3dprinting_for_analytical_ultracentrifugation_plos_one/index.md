@@ -1,9 +1,9 @@
 ---
-title: '3D-Printing for Analytical Ultracentrifugation'
-date: '2016-08-15'
+title: "3D-Printing for Analytical Ultracentrifugation"
+date: "2016-08-15"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-08-15
 

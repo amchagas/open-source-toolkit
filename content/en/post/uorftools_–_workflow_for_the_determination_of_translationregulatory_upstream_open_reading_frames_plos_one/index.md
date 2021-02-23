@@ -1,9 +1,9 @@
 ---
-title: 'uORF-Tools – Workflow for the determination of translation-regulatory upstream open reading frames'
-date: '2019-09-26'
+title: "uORF-Tools – Workflow for the determination of translation-regulatory upstream open reading frames"
+date: "2019-09-26"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-09-26
 

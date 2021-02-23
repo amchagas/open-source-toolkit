@@ -1,9 +1,9 @@
 ---
-title: 'An Open-Source, Automated Home-Cage Sipper Device for Monitoring Liquid Ingestive Behavior in Rodents '
-date: '2020-02-07'
+title: "An Open-Source, Automated Home-Cage Sipper Device for Monitoring Liquid Ingestive Behavior in Rodents "
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'eNeuro']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

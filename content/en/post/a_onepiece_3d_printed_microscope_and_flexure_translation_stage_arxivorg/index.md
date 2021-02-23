@@ -1,9 +1,9 @@
 ---
-title: 'A one-piece 3D printed microscope and flexure translation stage'
-date: '2016-02-15'
+title: "A one-piece 3D printed microscope and flexure translation stage"
+date: "2016-02-15"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'arXiv.org']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-02-15
 

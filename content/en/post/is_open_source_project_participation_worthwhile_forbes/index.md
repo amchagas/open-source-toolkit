@@ -1,9 +1,9 @@
 ---
-title: 'Is Open Source Project Participation Worthwhile?'
-date: '2018-12-10'
+title: "Is Open Source Project Participation Worthwhile?"
+date: "2018-12-10"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Forbes']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-12-10
 

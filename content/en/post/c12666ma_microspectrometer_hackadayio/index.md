@@ -1,9 +1,9 @@
 ---
-title: 'C12666MA Micro-Spectrometer'
-date: '2016-02-15'
+title: "C12666MA Micro-Spectrometer"
+date: "2016-02-15"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Hackaday.io']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-02-15
 

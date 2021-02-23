@@ -1,9 +1,9 @@
 ---
-title: 'DIY microscopy'
-date: '2016-03-21'
+title: "DIY microscopy"
+date: "2016-03-21"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Hackteria']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-03-21
 

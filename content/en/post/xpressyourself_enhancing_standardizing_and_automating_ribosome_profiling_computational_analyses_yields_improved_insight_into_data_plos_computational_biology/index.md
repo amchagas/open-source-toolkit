@@ -1,9 +1,9 @@
 ---
-title: 'XPRESSyourself: Enhancing, standardizing, and automating ribosome profiling computational analyses yields improved insight into data'
-date: '2020-03-03'
+title: "XPRESSyourself: Enhancing, standardizing, and automating ribosome profiling computational analyses yields improved insight into data"
+date: "2020-03-03"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-03-03
 

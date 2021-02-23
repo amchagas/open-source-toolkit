@@ -1,9 +1,9 @@
 ---
-title: 'A portable, low-cost device for precise control of specimen temperature under stereomicroscopes'
-date: '2020-03-11'
+title: "A portable, low-cost device for precise control of specimen temperature under stereomicroscopes"
+date: "2020-03-11"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-03-11
 

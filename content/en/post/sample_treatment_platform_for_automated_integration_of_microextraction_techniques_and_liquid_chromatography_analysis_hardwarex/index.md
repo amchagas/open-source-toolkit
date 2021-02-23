@@ -1,9 +1,9 @@
 ---
-title: 'Sample treatment platform for automated integration of microextraction techniques and liquid chromatography analysis'
-date: '2019-03-28'
+title: "Sample treatment platform for automated integration of microextraction techniques and liquid chromatography analysis"
+date: "2019-03-28"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'HardwareX']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-03-28
 

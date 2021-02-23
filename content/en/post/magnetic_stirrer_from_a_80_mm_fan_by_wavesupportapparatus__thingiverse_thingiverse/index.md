@@ -1,9 +1,9 @@
 ---
-title: 'Magnetic stirrer from a 80 mm fan by WaveSupportApparatus - Thingiverse'
-date: '2016-07-08'
+title: "Magnetic stirrer from a 80 mm fan by WaveSupportApparatus - Thingiverse"
+date: "2016-07-08"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Thingiverse']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-07-08
 

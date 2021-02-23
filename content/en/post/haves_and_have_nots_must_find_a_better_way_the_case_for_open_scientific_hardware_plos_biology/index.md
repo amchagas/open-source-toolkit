@@ -1,9 +1,9 @@
 ---
-title: 'Haves and have nots must find a better way: The case for open scientific hardware'
-date: '2018-09-27'
+title: "Haves and have nots must find a better way: The case for open scientific hardware"
+date: "2018-09-27"
 authors: ['admin']
 tags:  ['Commentary', 'None', 'PLOS Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-09-27
 

@@ -1,9 +1,9 @@
 ---
-title: 'Super‐beacons: Open‐source probes with spontaneous tuneable blinking compatible with live‐cell super‐resolution microscopy'
-date: '2020-04-06'
+title: "Super‐beacons: Open‐source probes with spontaneous tuneable blinking compatible with live‐cell super‐resolution microscopy"
+date: "2020-04-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'Traffic']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-04-06
 

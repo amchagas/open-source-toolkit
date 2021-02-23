@@ -1,9 +1,9 @@
 ---
-title: 'ggsashimi: Sashimi plot revised for browser- and annotation-independent splicing visualization'
-date: '2018-08-17'
+title: "ggsashimi: Sashimi plot revised for browser- and annotation-independent splicing visualization"
+date: "2018-08-17"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS Computational Biology']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-08-17
 

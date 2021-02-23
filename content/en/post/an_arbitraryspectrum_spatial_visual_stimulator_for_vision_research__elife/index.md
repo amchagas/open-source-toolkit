@@ -1,9 +1,9 @@
 ---
-title: 'An arbitrary-spectrum spatial visual stimulator for vision research '
-date: '2020-02-07'
+title: "An arbitrary-spectrum spatial visual stimulator for vision research "
+date: "2020-02-07"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'eLife']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2020-02-07
 

@@ -1,9 +1,9 @@
 ---
-title: '"Do-It-Yourself" reliable pH-stat device by using open-source software, inexpensive hardware and available laboratory equipment'
-date: '2018-03-06'
+title: "Do-It-Yourself reliable pH-stat device by using open-source software, inexpensive hardware and available laboratory equipment"
+date: "2018-03-06"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2018-03-06
 

@@ -1,9 +1,9 @@
 ---
-title: 'Low-Cost 3D Printers Enable High-Quality and Automated Sample Preparation and Molecular Detection'
-date: '2016-06-30'
+title: "Low-Cost 3D Printers Enable High-Quality and Automated Sample Preparation and Molecular Detection"
+date: "2016-06-30"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2016-06-30
 

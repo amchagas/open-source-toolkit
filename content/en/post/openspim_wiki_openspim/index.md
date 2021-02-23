@@ -1,9 +1,9 @@
 ---
-title: 'OpenSPIM Wiki'
-date: '2015-10-27'
+title: "OpenSPIM Wiki"
+date: "2015-10-27"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'OpenSPIM']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2015-10-27
 

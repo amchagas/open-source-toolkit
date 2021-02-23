@@ -1,9 +1,9 @@
 ---
-title: 'DIY CO2 Incubator Bioreactor for Mammalian Cell Culture '
-date: '2014-12-14'
+title: "DIY CO2 Incubator Bioreactor for Mammalian Cell Culture "
+date: "2014-12-14"
 authors: ['admin']
 tags:  ['Web Article', 'None', 'Pelling Lab']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-12-14
 

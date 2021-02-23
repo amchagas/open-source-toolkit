@@ -1,9 +1,9 @@
 ---
-title: 'Community-led data collection using Open Data Kit for surveillance of animal African trypanosomiasis in Shimba hills, Kenya'
-date: '2019-04-11'
+title: "Community-led data collection using Open Data Kit for surveillance of animal African trypanosomiasis in Shimba hills, Kenya"
+date: "2019-04-11"
 authors: ['admin']
 tags:  ['Research Article', 'None', ' BMC Research Notes']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2019-04-11
 

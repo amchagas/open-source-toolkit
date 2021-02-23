@@ -1,9 +1,9 @@
 ---
-title: 'From medical imaging data to 3D printed anatomical models'
-date: '2017-05-31'
+title: "From medical imaging data to 3D printed anatomical models"
+date: "2017-05-31"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2017-05-31
 

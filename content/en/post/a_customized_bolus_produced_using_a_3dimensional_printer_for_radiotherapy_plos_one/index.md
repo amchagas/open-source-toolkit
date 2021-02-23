@@ -1,9 +1,9 @@
 ---
-title: 'A Customized Bolus Produced Using a 3-Dimensional Printer for Radiotherapy'
-date: '2014-10-22'
+title: "A Customized Bolus Produced Using a 3-Dimensional Printer for Radiotherapy"
+date: "2014-10-22"
 authors: ['admin']
 tags:  ['Research Article', 'None', 'PLOS ONE']
-layout: 'post'
+layout: "post"
 ---
 Publishing date: 2014-10-22
 
